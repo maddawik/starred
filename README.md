@@ -326,6 +326,7 @@
 
 ## GDScript 
 
+- [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
 - [GDQuest/GDScript-formatter](https://github.com/GDQuest/GDScript-formatter) - A fast code formatter for GDScript and Godot 4, written in Rust
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
 - [NathanLovato/the-godot-cheatsheet](https://github.com/NathanLovato/the-godot-cheatsheet) - A collection of Godot tips and snippets from GodotCon 2024
@@ -385,6 +386,7 @@
 
 ## Go 
 
+- [oasis-open/cti-go-stix](https://github.com/oasis-open/cti-go-stix) - OASIS TC Open Repository: OASIS Go STIX API: a repository containing the MVP implementation of Go STIX APIs
 - [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
@@ -1995,6 +1997,7 @@
 
 ## Zig 
 
+- [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig) - 
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.

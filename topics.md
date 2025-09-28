@@ -3082,6 +3082,9 @@
 
 ## others 
 
+- [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
+- [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig) - 
+- [oasis-open/cti-go-stix](https://github.com/oasis-open/cti-go-stix) - OASIS TC Open Repository: OASIS Go STIX API: a repository containing the MVP implementation of Go STIX APIs
 - [FiligranHQ/xtm-composer](https://github.com/FiligranHQ/xtm-composer) - The composer allows Filigran users to manager their connectors/injectors/collectors directly from the platform
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [Tong-ST/Funcher](https://github.com/Tong-ST/Funcher) - App launcher that's FUN!

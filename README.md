@@ -327,6 +327,8 @@
 
 ## GDScript 
 
+- [croconut/godot-tester](https://github.com/croconut/godot-tester) - A Github Action to handle testing Godot applications with GUT
+- [ceceppa/godot-gut-ci](https://github.com/ceceppa/godot-gut-ci) - Run your Godot GUT tests on CI
 - [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
 - [NathanLovato/the-godot-cheatsheet](https://github.com/NathanLovato/the-godot-cheatsheet) - A collection of Godot tips and snippets from GodotCon 2024
@@ -1315,6 +1317,7 @@
 
 ## Python 
 
+- [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code

@@ -743,6 +743,7 @@
 
 ## JavaScript 
 
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [octo-sts/action](https://github.com/octo-sts/action) - 
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1492,6 +1493,8 @@
 
 ## Rust 
 
+- [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
+- [Blobfolio/riprip](https://github.com/Blobfolio/riprip) - A specialized audio CD-ripper optimized for track recovery.
 - [future-file-format/F3](https://github.com/future-file-format/F3) - [SIGMOD 2026] F3: The Open-Source Data File Format for the Future
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [FiligranHQ/xtm-composer](https://github.com/FiligranHQ/xtm-composer) - The composer allows Filigran users to manager their connectors/injectors/collectors directly from the platform

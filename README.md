@@ -96,6 +96,8 @@
 
 ## C 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [zsa/qmk_firmware](https://github.com/zsa/qmk_firmware) - QMK, forked for ZSA's Oryx Configurator (to safeguard stability)
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -1494,6 +1496,7 @@
 
 ## Rust 
 
+- [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [Blobfolio/riprip](https://github.com/Blobfolio/riprip) - A specialized audio CD-ripper optimized for track recovery.
 - [future-file-format/F3](https://github.com/future-file-format/F3) - [SIGMOD 2026] F3: The Open-Source Data File Format for the Future

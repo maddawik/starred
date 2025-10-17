@@ -273,6 +273,7 @@
 ## ai 
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -643,6 +644,7 @@
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -1293,6 +1295,7 @@
 ## framework 
 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -1500,12 +1503,14 @@
 
 ## go 
 
+- [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
 - [freetaxii/libstix2](https://github.com/freetaxii/libstix2) - APIs for generating STIX 2.1 and TAXII 2.1 messages with Go (Golang)
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [vulncheck-oss/sdk-go-v2](https://github.com/vulncheck-oss/sdk-go-v2) - A generated Go SDK from VulnCheck's OpenAPI specification
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
@@ -1647,6 +1652,7 @@
 
 ## godot 
 
+- [don-tnowe/godot-resources-as-sheets-plugin](https://github.com/don-tnowe/godot-resources-as-sheets-plugin) - I needed to edit many Resource files, so figured someone would too.
 - [croconut/godot-tester](https://github.com/croconut/godot-tester) - A Github Action to handle testing Godot applications with GUT
 - [GDQuest/GDScript-formatter](https://github.com/GDQuest/GDScript-formatter) - A fast code formatter for GDScript and Godot 4, written in Rust
 - [PrestonKnopp/tree-sitter-gdscript](https://github.com/PrestonKnopp/tree-sitter-gdscript) - Tree sitter grammar for Godot's GDScript
@@ -1704,6 +1710,7 @@
 - [freetaxii/libstix2](https://github.com/freetaxii/libstix2) - APIs for generating STIX 2.1 and TAXII 2.1 messages with Go (Golang)
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [vulncheck-oss/sdk-go-v2](https://github.com/vulncheck-oss/sdk-go-v2) - A generated Go SDK from VulnCheck's OpenAPI specification
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
@@ -1890,8 +1897,12 @@
 
 ## hacktoberfest 
 
+- [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -1992,7 +2003,6 @@
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
@@ -3181,12 +3191,9 @@
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
 - [dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim) - Dark theme with relaxing and no-saturated colors
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [helix-editor/tree-house](https://github.com/helix-editor/tree-house) - Cozy Rust bindings to the tree-sitter C library and a robust highlighter
 - [vulncheck-oss/vulnerability-research](https://github.com/vulncheck-oss/vulnerability-research) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -4460,6 +4467,8 @@
 
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.

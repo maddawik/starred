@@ -347,6 +347,7 @@
 - [GDQuest/GDTour](https://github.com/GDQuest/GDTour) - A framework for interactive step-by-step tutorials in the Godot editor
 - [gdquest-demos/godot-4-new-features](https://github.com/gdquest-demos/godot-4-new-features) - Free and open-source Godot 4 demo scenes to see the new features in action
 - [ItsKorin/Godot-Post-Process-Plugin](https://github.com/ItsKorin/Godot-Post-Process-Plugin) - A simple godot 4.2 plugin that adds shader based "post processing"
+- [clayjohn/godot-volumetric-cloud-demo-v2](https://github.com/clayjohn/godot-volumetric-cloud-demo-v2) - V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo
 - [nezvers/Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template for top-down shooter, with solutions for tough problems.
 - [SpyrexDE/SmoothScroll](https://github.com/SpyrexDE/SmoothScroll) - Addon for the Godot Game Engine that adds a SmoothScrollContainer.
 - [MrEliptik/godot_ui_components](https://github.com/MrEliptik/godot_ui_components) - A collection of UI designs implemented in Godot 4
@@ -388,11 +389,11 @@
 ## GLSL 
 
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
-- [clayjohn/godot-volumetric-cloud-demo-v2](https://github.com/clayjohn/godot-volumetric-cloud-demo-v2) - V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo
 - [CptPotato/GodotThings](https://github.com/CptPotato/GodotThings) - Some of my snippets and other bits for the Godot game engine.
 
 ## Go 
 
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
@@ -582,7 +583,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -792,6 +793,7 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳
@@ -1226,6 +1228,7 @@
 
 ## Others 
 
+- [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of
@@ -1507,6 +1510,7 @@
 
 ## Rust 
 
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
@@ -1854,6 +1858,7 @@
 
 ## TypeScript 
 
+- [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -1929,7 +1934,6 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers

@@ -286,6 +286,7 @@
 
 ## Common Lisp 
 
+- [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series
 
@@ -393,6 +394,7 @@
 
 ## Go 
 
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -591,11 +593,11 @@
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GeertJohan/gomatrix](https://github.com/GeertJohan/gomatrix) - Displays "The Matrix" in a terminal
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
-- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [charmbracelet/wizard-tutorial](https://github.com/charmbracelet/wizard-tutorial) - A basic wizard made with Bubble Tea and Lip Gloss. Follow along with the tutorial video for this project:
@@ -891,11 +893,12 @@
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) - A plugin to search for and insert emojis/kaomojis, with auto-completion support, right from Neovim 😀
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
-- [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
+- [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - nvim theme blending lava red and ice blue for a vibrant coding experience ✨
-- [Saghen/nvim](https://github.com/Saghen/nvim) - Personal neovim configuration
+- [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) - A simple neovim plugin to encrypt and decrypt sops files
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
@@ -916,7 +919,7 @@
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [nvzone/showkeys](https://github.com/nvzone/showkeys) - Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [yorumicolors/yorumi.nvim](https://github.com/yorumicolors/yorumi.nvim) - a dark colorscheme for neovim, inspired by kanagawa. deep code, quiet sea.
@@ -924,7 +927,7 @@
 - [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [magicalne/nvim.ai](https://github.com/magicalne/nvim.ai) - Inspired by Zed AI, it allows you to chat with your buffers, insert code with an inline assistant, and leverage various LLM providers for context-aware AI assistance.
-- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors.
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) - An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
@@ -1556,14 +1559,14 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [Saghen/frizbee](https://github.com/Saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -1866,7 +1869,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
@@ -1881,7 +1884,6 @@
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.

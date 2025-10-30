@@ -218,7 +218,7 @@
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [zeldaret/tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN)
 - [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
@@ -389,11 +389,12 @@
 
 ## GLSL 
 
-- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
+- [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [CptPotato/GodotThings](https://github.com/CptPotato/GodotThings) - Some of my snippets and other bits for the Godot game engine.
 
 ## Go 
 
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
@@ -1340,6 +1341,7 @@
 
 ## Python 
 
+- [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.

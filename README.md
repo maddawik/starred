@@ -26,6 +26,7 @@
 - [GDShader](#gdshader)
 - [GLSL](#glsl)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Ink](#ink)
@@ -126,6 +127,7 @@
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [zeldaret/tmc](https://github.com/zeldaret/tmc) - Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -190,6 +192,7 @@
 
 ## C++ 
 
+- [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy.
@@ -218,7 +221,6 @@
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [zeldaret/tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 - [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN)
 - [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
@@ -332,6 +334,7 @@
 
 ## GDScript 
 
+- [cherriesandmochi/gdmaim](https://github.com/cherriesandmochi/gdmaim) - GDMaim is a GDScript obfuscation plugin for the Godot Engine.
 - [don-tnowe/godot-resources-as-sheets-plugin](https://github.com/don-tnowe/godot-resources-as-sheets-plugin) - I needed to edit many Resource files, so figured someone would too.
 - [croconut/godot-tester](https://github.com/croconut/godot-tester) - A Github Action to handle testing Godot applications with GUT
 - [ceceppa/godot-gut-ci](https://github.com/ceceppa/godot-gut-ci) - Run your Godot GUT tests on CI
@@ -394,6 +397,7 @@
 
 ## Go 
 
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -696,6 +700,10 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+
+## HCL 
+
+- [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 
 ## HTML 
 
@@ -1235,6 +1243,8 @@
 
 ## Others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+- [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -1348,7 +1358,6 @@
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
-- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [andrew-morris/coding-homework](https://github.com/andrew-morris/coding-homework) - Reimplementing simple programs in various programming languages to gain a better grasp on programming
@@ -1519,6 +1528,8 @@
 
 ## Rust 
 
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
+- [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
@@ -1869,6 +1880,8 @@
 
 ## TypeScript 
 
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
+- [char-ptr/gdke](https://github.com/char-ptr/gdke) - Extract encryption key from godot binaries externally with a gui.
 - [moonrepo/setup-rust](https://github.com/moonrepo/setup-rust) - A maintained GitHub action for setting up Rust and Cargo.
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
@@ -1882,6 +1895,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data

@@ -107,6 +107,7 @@
 - [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
+- [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacking](#hacking)
@@ -400,7 +401,7 @@
 - [pzaino/thecrowler](https://github.com/pzaino/thecrowler) - A Content Discovery and Development Platform. Empowering Cybersecurity, AI, Marketing, and Finance professionals and researchers to discover, analyze, and interact with the web in all its dimensions.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -482,6 +483,7 @@
 
 ## aws 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -495,6 +497,7 @@
 
 ## azure 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -787,6 +790,7 @@
 
 ## cloud 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1058,6 +1062,7 @@
 
 ## devops 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -1140,6 +1145,7 @@
 
 ## documentation 
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
@@ -1303,7 +1309,7 @@
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [db0/godot-card-game-framework](https://github.com/db0/godot-card-game-framework) - A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -1883,6 +1889,10 @@
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
+## google 
+
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+
 ## google-cloud 
 
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for installing and configuring the gcloud CLI.
@@ -1898,6 +1908,7 @@
 
 ## hacking 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Berkanktk/CyberSecurity](https://github.com/Berkanktk/CyberSecurity) - A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1909,6 +1920,8 @@
 
 ## hacktoberfest 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+- [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
@@ -1947,7 +1960,7 @@
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
@@ -2045,7 +2058,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -2434,7 +2446,7 @@
 - [magicalne/nvim.ai](https://github.com/magicalne/nvim.ai) - Inspired by Zed AI, it allows you to chat with your buffers, insert code with an inline assistant, and leverage various LLM providers for context-aware AI assistance.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -3054,7 +3066,7 @@
 ## node 
 
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -3175,6 +3187,9 @@
 
 ## others 
 
+- [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
+- [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
+- [runatlantis/atlantis-example](https://github.com/runatlantis/atlantis-example) - A simple terraform project to use along with atlantis bootstrap mode
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
@@ -3225,7 +3240,7 @@
 - [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models
 - [dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim) - Dark theme with relaxing and no-saturated colors
@@ -3759,10 +3774,12 @@
 
 ## penetration-testing 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## pentesting 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [Berkanktk/CyberSecurity](https://github.com/Berkanktk/CyberSecurity) - A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 
@@ -3801,6 +3818,7 @@
 
 ## powershell 
 
+- [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
@@ -4265,6 +4283,7 @@
 
 ## security 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [devops-ia/helm-opencti](https://github.com/devops-ia/helm-opencti) - Helm chart for Open Cyber Threat Intelligence Platform
@@ -4292,6 +4311,7 @@
 
 ## security-tools 
 
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) - Format agnostic SBOM tooling
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
@@ -4616,6 +4636,9 @@
 
 ## terraform 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+- [autero1/action-terragrunt](https://github.com/autero1/action-terragrunt) - GitHub action for setting up Terragrunt https://terragrunt.gruntwork.io
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -4844,7 +4867,7 @@
 ## vue 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -4896,7 +4919,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-- [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
+- [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.

@@ -301,7 +301,7 @@
 ## algorithm 
 
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
 ## analytics 
 
@@ -382,7 +382,6 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [databricks/lilac](https://github.com/databricks/lilac) - Curate better data for LLMs
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
 
 ## atom 
 
@@ -483,6 +482,7 @@
 
 ## aws 
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
@@ -967,7 +967,6 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [pzaino/thecrowler](https://github.com/pzaino/thecrowler) - A Content Discovery and Development Platform. Empowering Cybersecurity, AI, Marketing, and Finance professionals and researchers to discover, analyze, and interact with the web in all its dimensions.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 
 ## data-structures 
@@ -1515,6 +1514,7 @@
 
 ## go 
 
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
@@ -1927,7 +1927,6 @@
 - [Unleash/unleash-go-sdk](https://github.com/Unleash/unleash-go-sdk) - Unleash client SDK for Go
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -2308,6 +2307,7 @@
 
 ## kubernetes 
 
+- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [devops-ia/helm-opencti](https://github.com/devops-ia/helm-opencti) - Helm chart for Open Cyber Threat Intelligence Platform
@@ -2676,6 +2676,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -3899,6 +3900,7 @@
 
 ## python 
 
+- [py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action) - Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
@@ -4637,6 +4639,9 @@
 
 ## terraform 
 
+- [hashicorp/terraform-provider-local](https://github.com/hashicorp/terraform-provider-local) - Utility provider used to manage local resources, such as creating files.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
+- [hashicorp/terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Utility provider that provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [autero1/action-terragrunt](https://github.com/autero1/action-terragrunt) - GitHub action for setting up Terragrunt https://terragrunt.gruntwork.io

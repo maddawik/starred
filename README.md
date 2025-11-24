@@ -719,6 +719,8 @@
 
 ## HCL 
 
+- [gruntwork-io/terraform-aws-utilities](https://github.com/gruntwork-io/terraform-aws-utilities) - A collection of useful Terraform utilities
+- [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
 - [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 
@@ -1553,6 +1555,7 @@
 
 ## Rust 
 
+- [vincent-uden/miro](https://github.com/vincent-uden/miro) - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
@@ -1749,6 +1752,7 @@
 
 ## Shell 
 
+- [atusy/by-binds-yourself](https://github.com/atusy/by-binds-yourself) - fish/zsh plugin to help repeated commandline workflows
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [Tong-ST/Funcher](https://github.com/Tong-ST/Funcher) - App launcher that's FUN!
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images

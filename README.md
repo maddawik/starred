@@ -402,6 +402,7 @@
 
 ## Go 
 
+- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [hashicorp/terraform-provider-scaffolding-framework](https://github.com/hashicorp/terraform-provider-scaffolding-framework) - Quick start repository for creating a Terraform provider using terraform-plugin-framework
@@ -731,6 +732,8 @@
 
 ## HTML 
 
+- [tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow) - A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4.
+- [reorx/hugo-PaperModX](https://github.com/reorx/hugo-PaperModX) - A fast, clean, responsive Hugo theme.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) - William Strunk Jr.'s Elements of Style (1918) in markdown format for AI agents
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro

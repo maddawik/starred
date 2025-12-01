@@ -2025,6 +2025,7 @@
 
 ## hacktoberfest 
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -2412,6 +2413,7 @@
 
 ## kubernetes 
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -3299,6 +3301,7 @@
 
 ## others 
 
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [reorx/hugo-PaperModX](https://github.com/reorx/hugo-PaperModX) - A fast, clean, responsive Hugo theme.
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)

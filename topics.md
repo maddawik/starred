@@ -3320,6 +3320,7 @@
 
 ## others 
 
+- [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [Kakudou/ansible_collection-Hashicorp](https://github.com/Kakudou/ansible_collection-Hashicorp) - Ansible Collection for Hashicorp Vault and PKI
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell

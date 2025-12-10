@@ -150,7 +150,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool) - An open-source tool for controlling IPMI-enabled systems
 - [simple64/simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
@@ -1239,6 +1239,7 @@
 
 ## Mustache 
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [openapi-generators/openapitools-generator-action](https://github.com/openapi-generators/openapitools-generator-action) - Generate a client library using the OpenAPITools Generator
 
 ## Nim 

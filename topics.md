@@ -102,6 +102,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -501,6 +502,7 @@
 
 ## aws 
 
+- [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) - Terraform module for provisioning an EKS cluster
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
 - [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
@@ -536,6 +538,7 @@
 
 ## bash 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
@@ -672,6 +675,7 @@
 
 ## cli 
 
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -817,6 +821,7 @@
 
 ## cloud 
 
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -1520,6 +1525,10 @@
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [addmix/godot_aerodynamic_physics](https://github.com/addmix/godot_aerodynamic_physics) - 
 - [Yonaba/awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - :video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.
+
+## generative-ai 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## gh-extension 
 
@@ -2434,6 +2443,7 @@
 
 ## kubernetes 
 
+- [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) - Terraform module for provisioning an EKS cluster
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
@@ -3328,6 +3338,9 @@
 
 ## others 
 
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
+- [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [Kakudou/ansible_collection-Hashicorp](https://github.com/Kakudou/ansible_collection-Hashicorp) - Ansible Collection for Hashicorp Vault and PKI
@@ -4529,6 +4542,7 @@
 
 ## shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [rose-pine/fish](https://github.com/rose-pine/fish) - Soho vibes for fish
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
@@ -4811,6 +4825,8 @@
 
 ## terraform 
 
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
+- [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) - Terraform module for provisioning an EKS cluster
 - [cloudposse/terraform-yaml-config](https://github.com/cloudposse/terraform-yaml-config) - Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps
 - [hashicorp/terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Utility provider that exists to provide an interface between Terraform and external programs. Useful for integrating Terraform with a system for which a first-class provider does not exist.
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
@@ -4838,6 +4854,7 @@
 
 ## testing 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language

@@ -291,6 +291,7 @@
 
 ## Common Lisp 
 
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series
@@ -402,6 +403,9 @@
 
 ## Go 
 
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
+- [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [hashicorp/terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) - Utility provider that exists to provide an interface between Terraform and external programs. Useful for integrating Terraform with a system for which a first-class provider does not exist.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
@@ -732,6 +736,8 @@
 
 ## HCL 
 
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
+- [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) - Terraform module for provisioning an EKS cluster
 - [cloudposse/terraform-yaml-config](https://github.com/cloudposse/terraform-yaml-config) - Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps
 - [gruntwork-io/terraform-aws-utilities](https://github.com/gruntwork-io/terraform-aws-utilities) - A collection of useful Terraform utilities
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
@@ -1780,6 +1786,7 @@
 
 ## Shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [atusy/by-binds-yourself](https://github.com/atusy/by-binds-yourself) - fish/zsh plugin to help repeated commandline workflows
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [Tong-ST/Funcher](https://github.com/Tong-ST/Funcher) - App launcher that's FUN!

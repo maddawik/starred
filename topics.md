@@ -3338,6 +3338,7 @@
 
 ## others 
 
+- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.

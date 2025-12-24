@@ -2101,7 +2101,6 @@
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
@@ -2308,6 +2307,7 @@
 
 ## http 
 
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -3373,6 +3373,7 @@
 
 ## others 
 
+- [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [temporalio/docker-compose](https://github.com/temporalio/docker-compose) - Temporal docker-compose files
 - [cloudposse/terraform-aws-vpn-connection](https://github.com/cloudposse/terraform-aws-vpn-connection) - Terraform module to provision a site-to-site VPN connection between a VPC and an on-premises network
 - [tweag/topiary](https://github.com/tweag/topiary) - 
@@ -3477,6 +3478,7 @@
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey, published by O'Reilly Media.
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [jasonjmcghee/livelove](https://github.com/jasonjmcghee/livelove) - Love2D LSP (VS Code / Neovim / Zed / etc.) extension for live coding and live variable tracking
 - [Kungsgeten/ink-mode](https://github.com/Kungsgeten/ink-mode) - An Emacs major mode for the interactive fiction scripting language Ink, by Inkle Studios.
@@ -3680,7 +3682,7 @@
 - [zeldaret/tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 - [zeldaret/tmc](https://github.com/zeldaret/tmc) - Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)
 - [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
-- [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess (GCN)
+- [zeldaret/tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
@@ -4112,6 +4114,7 @@
 
 ## python 
 
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action) - Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/

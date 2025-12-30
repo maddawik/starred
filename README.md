@@ -1590,7 +1590,6 @@
 ## Ruby 
 
 - [msgpack-rpc/msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc) - MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.
-- [dbk91/homebrew-wow-classic-era-addons](https://github.com/dbk91/homebrew-wow-classic-era-addons) - Homebrew tap for installing WoW classic era add-ons.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [schasse/tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
@@ -1811,6 +1810,8 @@
 
 ## Shell 
 
+- [cunymatthieu/tgenv](https://github.com/cunymatthieu/tgenv) - Terragrunt version manager
+- [karoltheguy/terraform-forgejo-actions](https://github.com/karoltheguy/terraform-forgejo-actions) - A Github/Forgejo action for generating Terraform module documentation using terraform-docs and gomplate
 - [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
 - [temporalio/docker-compose](https://github.com/temporalio/docker-compose) - Temporal docker-compose files
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
@@ -1997,6 +1998,7 @@
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+- [dbk91/homebrew-wow-classic-era-addons](https://github.com/dbk91/homebrew-wow-classic-era-addons) - Homebrew tap for installing WoW classic era add-ons.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.

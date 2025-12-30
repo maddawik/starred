@@ -507,6 +507,7 @@
 
 ## aws 
 
+- [cloudposse/terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - Terraform Module to define an EFS Filesystem (aka NFS)
 - [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 - [cloudposse/terraform-aws-vpc-peering](https://github.com/cloudposse/terraform-aws-vpc-peering) - Terraform module to create a peering connection between two VPCs in the same AWS account.
 - [cloudposse/terraform-aws-vpc](https://github.com/cloudposse/terraform-aws-vpc) - Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways
@@ -1218,6 +1219,7 @@
 
 ## docker 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -1651,6 +1653,7 @@
 
 ## go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
@@ -1867,6 +1870,7 @@
 
 ## golang 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
@@ -2088,6 +2092,7 @@
 
 ## hacktoberfest 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
@@ -2481,6 +2486,7 @@
 
 ## kubernetes 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) - Terraform module for provisioning an EKS cluster
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -3385,6 +3391,8 @@
 
 ## others 
 
+- [cunymatthieu/tgenv](https://github.com/cunymatthieu/tgenv) - Terragrunt version manager
+- [karoltheguy/terraform-forgejo-actions](https://github.com/karoltheguy/terraform-forgejo-actions) - A Github/Forgejo action for generating Terraform module documentation using terraform-docs and gomplate
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [temporalio/docker-compose](https://github.com/temporalio/docker-compose) - Temporal docker-compose files
 - [cloudposse/terraform-aws-vpn-connection](https://github.com/cloudposse/terraform-aws-vpn-connection) - Terraform module to provision a site-to-site VPN connection between a VPC and an on-premises network
@@ -4526,6 +4534,7 @@
 
 ## security 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [padok-team/git-secret-scanner](https://github.com/padok-team/git-secret-scanner) - Find secrets in git repositories with TruffleHog & Gitleaks
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
@@ -4555,6 +4564,7 @@
 
 ## security-tools 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) - Format agnostic SBOM tooling
@@ -4887,6 +4897,8 @@
 
 ## terraform 
 
+- [cloudposse/terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - Terraform Module to define an EFS Filesystem (aka NFS)
+- [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [cloudposse/terraform-aws-vpc-peering](https://github.com/cloudposse/terraform-aws-vpc-peering) - Terraform module to create a peering connection between two VPCs in the same AWS account.
 - [cloudposse/terraform-aws-vpc](https://github.com/cloudposse/terraform-aws-vpc) - Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways

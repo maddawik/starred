@@ -3406,6 +3406,7 @@
 
 ## others 
 
+- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone
 - [cunymatthieu/tgenv](https://github.com/cunymatthieu/tgenv) - Terragrunt version manager
 - [karoltheguy/terraform-forgejo-actions](https://github.com/karoltheguy/terraform-forgejo-actions) - A Github/Forgejo action for generating Terraform module documentation using terraform-docs and gomplate
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
@@ -3481,7 +3482,7 @@
 - [MexHigh/ESPHome-UART-Read-Line-Sensor](https://github.com/MexHigh/ESPHome-UART-Read-Line-Sensor) - ESPHome External Component used to create a text_sensor component from a UART bus.
 - [rsc/gophershirt](https://github.com/rsc/gophershirt) - Gopher Hawaiian Shirts
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons

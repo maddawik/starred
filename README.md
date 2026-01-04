@@ -100,6 +100,7 @@
 
 ## C 
 
+- [caszuu/rlxr](https://github.com/caszuu/rlxr) - A minimalist OpenXR integration with Raylib
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -754,6 +755,7 @@
 
 ## HCL 
 
+- [cloudposse/terraform-aws-iam-role](https://github.com/cloudposse/terraform-aws-iam-role) - A Terraform module that creates IAM role with provided JSON IAM polices documents.
 - [cloudposse/terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - Terraform Module to define an EFS Filesystem (aka NFS)
 - [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [cloudposse/terraform-aws-vpc-peering](https://github.com/cloudposse/terraform-aws-vpc-peering) - Terraform module to create a peering connection between two VPCs in the same AWS account.
@@ -1347,7 +1349,7 @@
 - [rdavison/graphite-layout](https://github.com/rdavison/graphite-layout) - Graphite keyboard layout
 - [Ivo-Balbaert/The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - A gradual guide to discover and learn the Jai programming language
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
-- [rose-pine/ghostty](https://github.com/rose-pine/ghostty) - Soho vibes for ghostty
+- [rose-pine/ghostty](https://github.com/rose-pine/ghostty) - Soho vibes for Ghostty
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [rbong/flog-symbols](https://github.com/rbong/flog-symbols) - Glyphs for rendering Git branches.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.

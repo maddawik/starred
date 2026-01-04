@@ -152,6 +152,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -2934,6 +2935,15 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 
+## mcp 
+
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## microservices 
 
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -3406,6 +3416,8 @@
 
 ## others 
 
+- [caszuu/rlxr](https://github.com/caszuu/rlxr) - A minimalist OpenXR integration with Raylib
+- [cloudposse/terraform-aws-iam-role](https://github.com/cloudposse/terraform-aws-iam-role) - A Terraform module that creates IAM role with provided JSON IAM polices documents.
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone
 - [cunymatthieu/tgenv](https://github.com/cunymatthieu/tgenv) - Terragrunt version manager
 - [karoltheguy/terraform-forgejo-actions](https://github.com/karoltheguy/terraform-forgejo-actions) - A Github/Forgejo action for generating Terraform module documentation using terraform-docs and gomplate
@@ -3514,7 +3526,6 @@
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [hiasr/vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) - 
 - [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey, published by O'Reilly Media.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [jasonjmcghee/livelove](https://github.com/jasonjmcghee/livelove) - Love2D LSP (VS Code / Neovim / Zed / etc.) extension for live coding and live variable tracking
 - [Kungsgeten/ink-mode](https://github.com/Kungsgeten/ink-mode) - An Emacs major mode for the interactive fiction scripting language Ink, by Inkle Studios.
@@ -3587,7 +3598,7 @@
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) - Tool for searching Exploits from Exploit Databases, etc.
 - [Ivo-Balbaert/The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - A gradual guide to discover and learn the Jai programming language
-- [rose-pine/ghostty](https://github.com/rose-pine/ghostty) - Soho vibes for ghostty
+- [rose-pine/ghostty](https://github.com/rose-pine/ghostty) - Soho vibes for Ghostty
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim

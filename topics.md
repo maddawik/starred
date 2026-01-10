@@ -1669,6 +1669,7 @@
 
 ## go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -4577,6 +4578,7 @@
 
 ## security 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [padok-team/git-secret-scanner](https://github.com/padok-team/git-secret-scanner) - Find secrets in git repositories with TruffleHog & Gitleaks
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.

@@ -187,6 +187,7 @@
 
 ## C# # 
 
+- [wildwinter/Ink-Tester](https://github.com/wildwinter/Ink-Tester) - A simple testing framework for stories written in Inkle's Ink.
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs

@@ -3427,6 +3427,7 @@
 
 ## others 
 
+- [wildwinter/Ink-Tester](https://github.com/wildwinter/Ink-Tester) - A simple testing framework for stories written in Inkle's Ink.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [bit69tream/ace](https://github.com/bit69tream/ace) - Aseprite file parser
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine

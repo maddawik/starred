@@ -30,6 +30,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Ink](#ink)
+- [Jai](#jai)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -341,7 +342,7 @@
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
 ## GAP 
 
@@ -811,6 +812,10 @@
 ## Ink 
 
 - [inkle/ink-library](https://github.com/inkle/ink-library) - A collection of ink samples, tools and a list of projects that use ink
+
+## Jai 
+
+- [Ivo-Balbaert/The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - A gradual guide to discover and learn the Jai programming language
 
 ## Janet 
 
@@ -1354,7 +1359,6 @@
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [tree-sitter/parser-test-action](https://github.com/tree-sitter/parser-test-action) - Test action for tree-sitter parsers
 - [rdavison/graphite-layout](https://github.com/rdavison/graphite-layout) - Graphite keyboard layout
-- [Ivo-Balbaert/The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - A gradual guide to discover and learn the Jai programming language
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [rose-pine/ghostty](https://github.com/rose-pine/ghostty) - Soho vibes for Ghostty
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
@@ -1996,6 +2000,7 @@
 
 ## TypeScript 
 
+- [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.

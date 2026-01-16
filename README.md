@@ -1637,6 +1637,7 @@
 
 ## Rust 
 
+- [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
@@ -2010,6 +2011,7 @@
 
 ## TypeScript 
 
+- [shipth-is/cli](https://github.com/shipth-is/cli) - CLI to build and publish Godot games to the App Store and Google Play - no Xcode or Android Studio required.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨

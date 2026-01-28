@@ -427,6 +427,7 @@
 
 ## Go 
 
+- [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [ByteNess/aws-vault](https://github.com/ByteNess/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
@@ -1648,6 +1649,7 @@
 
 ## Rust 
 
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Extremely fast Ruby version and gem manager
@@ -2023,6 +2025,7 @@
 
 ## TypeScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [shipth-is/cli](https://github.com/shipth-is/cli) - CLI to build and publish Godot games to the App Store and Google Play - no Xcode or Android Studio required.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release

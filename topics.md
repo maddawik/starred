@@ -564,7 +564,7 @@
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts!
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1204,7 +1204,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -1712,7 +1712,7 @@
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
@@ -3468,6 +3468,9 @@
 
 ## others 
 
+- [mpatfield/homebridge-econet-rheem](https://github.com/mpatfield/homebridge-econet-rheem) - Homebridge plugin for HomeKit control of Rheem water heaters and thermostats
+- [homebridge/homebridge-plugin-template](https://github.com/homebridge/homebridge-plugin-template) - A template you can use to create your own Homebridge plugins.
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac)
 - [mitre/cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
@@ -4983,7 +4986,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -5440,7 +5443,7 @@
 - [atusy/by-binds-yourself](https://github.com/atusy/by-binds-yourself) - fish/zsh plugin to help repeated commandline workflows
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
-- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts
+- [adaszko/complgen](https://github.com/adaszko/complgen) - Declarative bash/fish/zsh/pwsh completions without writing shell scripts!
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.

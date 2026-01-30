@@ -295,7 +295,7 @@
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
+- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -2706,7 +2706,7 @@
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - nvim theme blending lava red and ice blue for a vibrant coding experience ✨
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
-- [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) - A simple neovim plugin to encrypt and decrypt sops files
+- [prismatic-koi/nvim-sops](https://github.com/prismatic-koi/nvim-sops) - A simple neovim plugin to encrypt and decrypt sops files
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -3070,7 +3070,7 @@
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - nvim theme blending lava red and ice blue for a vibrant coding experience ✨
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
-- [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) - A simple neovim plugin to encrypt and decrypt sops files
+- [prismatic-koi/nvim-sops](https://github.com/prismatic-koi/nvim-sops) - A simple neovim plugin to encrypt and decrypt sops files
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
@@ -4024,7 +4024,7 @@
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [jesusvasquez333/verify-pr-label-action](https://github.com/jesusvasquez333/verify-pr-label-action) - GitHub Action to Verify if Pull Requests Have Valid Labels
 - [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) - ROM Properties Page shell extension
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [free-audio/clap](https://github.com/free-audio/clap) - Audio Plugin API
 - [cloverage/cloverage](https://github.com/cloverage/cloverage) - Clojure test coverage tool

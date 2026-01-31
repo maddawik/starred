@@ -427,6 +427,8 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [warrensbox/tgswitch](https://github.com/warrensbox/tgswitch) - Manage terragrunt versions - the tgswitch command line tool lets you switch between different versions of terragrunt
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [ByteNess/aws-vault](https://github.com/ByteNess/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
@@ -780,6 +782,7 @@
 
 ## HCL 
 
+- [ariehm/terraform-up-and-running](https://github.com/ariehm/terraform-up-and-running) - A repo to hold my clumsy working-through's of the examples in the book.
 - [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) - Terraform module to provision a Tailscale Subnet Router into your AWS VPC
 - [cloudposse/terraform-aws-iam-role](https://github.com/cloudposse/terraform-aws-iam-role) - A Terraform module that creates IAM role with provided JSON IAM polices documents.
 - [cloudposse/terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - Terraform Module to define an EFS Filesystem (aka NFS)
@@ -1594,7 +1597,7 @@
 - [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1650,6 +1653,7 @@
 
 ## Rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust

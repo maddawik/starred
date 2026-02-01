@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools

@@ -141,6 +141,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
+- [latex](#latex)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1776,7 +1777,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
@@ -2009,7 +2010,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -2577,6 +2578,10 @@
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
+## latex 
+
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
+
 ## learning 
 
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
@@ -2689,7 +2694,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## low-code 
 
@@ -3036,6 +3041,7 @@
 
 ## mysql 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [cloudposse/terraform-aws-rds](https://github.com/cloudposse/terraform-aws-rds) - Terraform module to provision AWS RDS instances
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
@@ -3100,6 +3106,7 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
@@ -3475,6 +3482,7 @@
 
 ## others 
 
+- [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [ariehm/terraform-up-and-running](https://github.com/ariehm/terraform-up-and-running) - A repo to hold my clumsy working-through's of the examples in the book.
 - [mpatfield/homebridge-econet-rheem](https://github.com/mpatfield/homebridge-econet-rheem) - Homebridge plugin for HomeKit control of Rheem water heaters and thermostats
 - [homebridge/homebridge-plugin-template](https://github.com/homebridge/homebridge-plugin-template) - A template you can use to create your own Homebridge plugins.
@@ -3707,7 +3715,6 @@
 - [jorgebucaran/getopts.fish](https://github.com/jorgebucaran/getopts.fish) - Parse CLI options in Fish
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [vulncheck-oss/go-exploit](https://github.com/vulncheck-oss/go-exploit) - A Go-based Exploit Framework
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
@@ -4143,6 +4150,7 @@
 
 ## postgresql 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
@@ -4239,6 +4247,7 @@
 
 ## python 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action) - Publish coverage report as PR comment, and create a coverage badge & dashboard to display on the Readme for Python projects, all inside GitHub without third party servers
@@ -4799,6 +4808,7 @@
 
 ## sql 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -4814,6 +4824,7 @@
 
 ## sqlite 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -5086,6 +5097,7 @@
 
 ## tui 
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj

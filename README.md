@@ -428,6 +428,8 @@
 
 ## Go 
 
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+- [kyoh86/nvim-snap](https://github.com/kyoh86/nvim-snap) - UI snapshot-based testing for Neovim with diff visualization
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [warrensbox/tgswitch](https://github.com/warrensbox/tgswitch) - Manage terragrunt versions - the tgswitch command line tool lets you switch between different versions of terragrunt
@@ -1478,6 +1480,8 @@
 
 ## Python 
 
+- [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
+- [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - An open-source dataset of malicious software packages found in the wild, 100% vetted by humans.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋

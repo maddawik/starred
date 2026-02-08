@@ -197,7 +197,6 @@
 
 - [wildwinter/Ink-Tester](https://github.com/wildwinter/Ink-Tester) - A simple testing framework for stories written in Inkle's Ink.
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - Dynamic Tiling Window Manager for Windows
@@ -650,6 +649,7 @@
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [shijuvar/gokit](https://github.com/shijuvar/gokit) - Go Examples: From basics to distributed systems
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
@@ -993,7 +993,6 @@
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - Neovim plugin that shows type annotations as virtual text
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [mellow-theme/mellow.nvim](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme for neovim and friends.
 - [dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim) - Dark theme with relaxing and no-saturated colors
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
@@ -1409,7 +1408,6 @@
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [golang/govulncheck-action](https://github.com/golang/govulncheck-action) - [mirror] GitHub action for govulncheck
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [lunarcloud/public-ink-projects](https://github.com/lunarcloud/public-ink-projects) - My public ink(y) projects
@@ -1491,6 +1489,7 @@
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
@@ -1694,6 +1693,7 @@
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [helix-editor/tree-house](https://github.com/helix-editor/tree-house) - Cozy Rust bindings to the tree-sitter C library and a robust highlighter
 - [GDQuest/GDScript-formatter](https://github.com/GDQuest/GDScript-formatter) - A faster code formatter for GDScript and Godot 4
 - [sharph/zellij-nvim-nav-plugin](https://github.com/sharph/zellij-nvim-nav-plugin) - A plugin for zellij to run alongside zellij-nav.nvim
@@ -1947,7 +1947,7 @@
 - [FalcoSuessgott/golang-cli-template](https://github.com/FalcoSuessgott/golang-cli-template) - A general purpose golang CLI  template for Github and Gitlab
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
-- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh or Fish, and Ghostty + Tmux
+- [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS

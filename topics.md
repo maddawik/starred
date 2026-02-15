@@ -3487,6 +3487,7 @@
 
 ## others 
 
+- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [kyoh86/nvim-snap](https://github.com/kyoh86/nvim-snap) - UI snapshot-based testing for Neovim with diff visualization
 - [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - An open-source dataset of malicious software packages found in the wild, 100% vetted by humans.

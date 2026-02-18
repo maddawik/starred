@@ -3487,6 +3487,10 @@
 
 ## others 
 
+- [dmlary/godot-stencil-based-outline-compositor-effect](https://github.com/dmlary/godot-stencil-based-outline-compositor-effect) - Godot CompositorEffect that draws object outlines using the stencil buffer
+- [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
+- [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [scummvm/scummvm-tools](https://github.com/scummvm/scummvm-tools) - ScummVM tools repository
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
@@ -3656,7 +3660,7 @@
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
-- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping

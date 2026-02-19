@@ -3487,6 +3487,7 @@
 
 ## others 
 
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [dmlary/godot-stencil-based-outline-compositor-effect](https://github.com/dmlary/godot-stencil-based-outline-compositor-effect) - Godot CompositorEffect that draws object outlines using the stencil buffer
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
 - [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
@@ -4718,7 +4719,7 @@
 
 ## self-hosted 
 
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.

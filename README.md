@@ -1378,7 +1378,7 @@
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
 - [CocoaPods/Specs](https://github.com/CocoaPods/Specs) - The CocoaPods Master Repo
 - [mitre/cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns) - a classy font
@@ -2015,6 +2015,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.

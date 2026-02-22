@@ -3492,6 +3492,7 @@
 
 ## others 
 
+- [gruntwork-io/runbooks](https://github.com/gruntwork-io/runbooks) - Runbooks enables infrastructure experts to scale their expertise.
 - [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [dmlary/godot-stencil-based-outline-compositor-effect](https://github.com/dmlary/godot-stencil-based-outline-compositor-effect) - Godot CompositorEffect that draws object outlines using the stencil buffer
@@ -5054,6 +5055,7 @@
 
 ## terraform 
 
+- [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [warrensbox/tgswitch](https://github.com/warrensbox/tgswitch) - Manage terragrunt versions - the tgswitch command line tool lets you switch between different versions of terragrunt
 - [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) - Terraform module to provision a Tailscale Subnet Router into your AWS VPC

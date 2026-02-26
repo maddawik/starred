@@ -794,6 +794,7 @@
 
 ## HCL 
 
+- [cloudposse/terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) - Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [ariehm/terraform-up-and-running](https://github.com/ariehm/terraform-up-and-running) - A repo to hold my clumsy working-through's of the examples in the book.
 - [masterpointio/terraform-aws-tailscale](https://github.com/masterpointio/terraform-aws-tailscale) - Terraform module to provision a Tailscale Subnet Router into your AWS VPC
@@ -949,7 +950,7 @@
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [matt-ball/postman-local](https://github.com/matt-ball/postman-local) - A client to facilitate local development of scripts for Postman.
 - [smakosh/gatsby-portfolio-dev](https://github.com/smakosh/gatsby-portfolio-dev) - A portfolio for developers
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [jamesknelson/create-react-blog](https://github.com/jamesknelson/create-react-blog) - Start and deploy your own statically rendered blog with create-react-app
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -1676,7 +1677,7 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [h2337/tsink](https://github.com/h2337/tsink) - Embedded time-series database for Rust
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions

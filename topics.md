@@ -88,6 +88,7 @@
 - [es6](#es6)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -1425,6 +1426,11 @@
 ## facebook 
 
 - [imkarthikk/pihole-facebook](https://github.com/imkarthikk/pihole-facebook) - Facebook DNS Blocklist for Pihole
+
+## fastapi 
+
+- [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
+- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 
 ## finance 
 

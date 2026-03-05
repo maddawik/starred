@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
@@ -1309,7 +1310,7 @@
 ## Makefile 
 
 - [ROCKNIX/distribution](https://github.com/ROCKNIX/distribution) - 
-- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of awesome projects in Zig.
+- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -2259,7 +2260,7 @@
 ## Zig 
 
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
-- [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig) - 
+- [botirk38/pico-os](https://github.com/botirk38/pico-os) - A minimal RISC-V 32-bit OS written in Zig.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.

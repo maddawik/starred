@@ -284,7 +284,6 @@
 ## 3d 
 
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [appsinacup/godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics) - Godot Rapier Physics – 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust

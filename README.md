@@ -1183,7 +1183,7 @@
 - [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
-- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://git.sr.ht/~chinmay/cphelper.nvim instead
+- [dchinmay2/cphelper.nvim](https://github.com/dchinmay2/cphelper.nvim) - Neovim helper for competitive programming. Use https://git.sr.ht/~chinmay/cphelper.nvim instead
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
 - [HampusHauffman/block.nvim](https://github.com/HampusHauffman/block.nvim) - 

@@ -3234,7 +3234,7 @@
 - [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
-- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://git.sr.ht/~chinmay/cphelper.nvim instead
+- [dchinmay2/cphelper.nvim](https://github.com/dchinmay2/cphelper.nvim) - Neovim helper for competitive programming. Use https://git.sr.ht/~chinmay/cphelper.nvim instead
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Minimalistic plugin for Go development
@@ -3496,7 +3496,6 @@
 ## openai 
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)

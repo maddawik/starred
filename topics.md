@@ -290,6 +290,7 @@
 
 ## agent 
 
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -1211,6 +1212,7 @@
 
 ## devops 
 
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [infracost/infracost-atlantis](https://github.com/infracost/infracost-atlantis) - Atlantis integration for Infracost. Shows cloud cost estimates for Terraform in pull requests.
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
@@ -1681,6 +1683,8 @@
 
 ## github 
 
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -2171,6 +2175,7 @@
 
 ## hacktoberfest 
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -3081,7 +3086,7 @@
 - [nathanhoad/godot_sound_manager](https://github.com/nathanhoad/godot_sound_manager) - A simple music and sound effect player for the Godot Engine
 - [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 
 ## mysql 
 
@@ -4106,7 +4111,6 @@
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [fmoralesc/vim-tutor-mode](https://github.com/fmoralesc/vim-tutor-mode) - interactive tutorials for vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [JK3Y/NPS-Browser-macOS](https://github.com/JK3Y/NPS-Browser-macOS) - macOS version of NPS Browser
 - [klinquist/iOS-VPN-Autoconnect](https://github.com/klinquist/iOS-VPN-Autoconnect) - Generates a mobileconfig file to auto-connect to a VPN on your iOS device.
@@ -4455,7 +4459,8 @@
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -4785,7 +4790,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
@@ -5101,6 +5106,7 @@
 
 ## terraform 
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
 - [cloudposse/terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) - Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -5536,6 +5542,7 @@
 
 ## zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.

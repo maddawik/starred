@@ -450,7 +450,7 @@
 - [ByteNess/aws-vault](https://github.com/ByteNess/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rule
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -868,7 +868,7 @@
 
 ## Java 
 
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+- [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [apache/hbase](https://github.com/apache/hbase) - Apache HBase
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.

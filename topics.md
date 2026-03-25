@@ -738,7 +738,7 @@
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
@@ -1532,7 +1532,7 @@
 - [Maaack/Godot-Menus-Template](https://github.com/Maaack/Godot-Menus-Template) - Godot template with a main menu, options menus, credits, and a scene loader.
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [raysan5/custom_game_engines](https://github.com/raysan5/custom_game_engines) - A comprehensive list of custom game engines
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [godot-gdunit-labs/gdUnit4](https://github.com/godot-gdunit-labs/gdUnit4) - Embedded unit testing framework for Godot 4 supporting GDScript and C#. Features test-driven development, embedded test inspector, extensive assertions, mocking, scene testing.
@@ -1560,7 +1560,7 @@
 
 ## game-engine 
 
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming.
@@ -1581,7 +1581,7 @@
 - [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template) - An Odin + Raylib game template with Hot Reloading pre-setup
 - [godot-gdunit-labs/gdUnit4-action](https://github.com/godot-gdunit-labs/gdUnit4-action) - 🎮 Official GdUnit4 GitHub Action for automated testing in Godot 4.x projects. Supports GDScript & C#, test reporting, and CI/CD pipeline integration. Built for game developers to streamline their test
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
 - [db0/godot-card-game-framework](https://github.com/db0/godot-card-game-framework) - A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.
 - [godot-jolt/godot-jolt](https://github.com/godot-jolt/godot-jolt) - Godot Jolt is a Godot extension that integrates the Jolt physics engine
@@ -2151,7 +2151,7 @@
 
 ## gui 
 
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -3482,7 +3482,7 @@
 ## open-source 
 
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -4092,7 +4092,7 @@
 - [libretro/pcsx_rearmed_switch](https://github.com/libretro/pcsx_rearmed_switch) - PCSX ReARMed specifically for Switch right now. Separate repo might go away later.
 - [libretro/mupen64plus-libretro](https://github.com/libretro/mupen64plus-libretro) - Mupen64 Plus libretro core that stays compatible with upstream.
 - [libretro/mgba](https://github.com/libretro/mgba) - mGBA Game Boy Advance Emulator
-- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [libretro/mupen64plus-libretro-nx](https://github.com/libretro/mupen64plus-libretro-nx) - Improved mupen64plus libretro core reimplementation
 - [libretro/dolphin](https://github.com/libretro/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [libretro/desmume](https://github.com/libretro/desmume) - DeSmuME is a Nintendo DS emulator
@@ -5546,7 +5546,7 @@
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
-- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 

@@ -739,7 +739,6 @@
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fedeztk/sku](https://github.com/fedeztk/sku) - Simple TUI written in go to play sudoku in the terminal
-- [Peter-Lankton/go-devsecops-pipeline](https://github.com/Peter-Lankton/go-devsecops-pipeline) - An example of a devsecops pipeline for the GO programming language using GitHub Actions
 - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧

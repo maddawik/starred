@@ -1305,7 +1305,6 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [Peter-Lankton/go-devsecops-pipeline](https://github.com/Peter-Lankton/go-devsecops-pipeline) - An example of a devsecops pipeline for the GO programming language using GitHub Actions
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
@@ -1877,7 +1876,6 @@
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A customizable, interactive table component for the Bubble Tea framework
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fedeztk/sku](https://github.com/fedeztk/sku) - Simple TUI written in go to play sudoku in the terminal
-- [Peter-Lankton/go-devsecops-pipeline](https://github.com/Peter-Lankton/go-devsecops-pipeline) - An example of a devsecops pipeline for the GO programming language using GitHub Actions
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.

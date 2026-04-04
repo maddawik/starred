@@ -801,6 +801,7 @@
 
 ## HCL 
 
+- [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [temporal-community/temporal-ecs](https://github.com/temporal-community/temporal-ecs) - 
 - [cloudposse/terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) - Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman

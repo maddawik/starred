@@ -195,6 +195,7 @@
 
 ## C# # 
 
+- [elamaunt/GDShrapt](https://github.com/elamaunt/GDShrapt) - Language intelligence platform for GDScript: parser, semantic analysis, refactoring, CLI, LSP, and Godot plugin.
 - [wildwinter/Ink-Tester](https://github.com/wildwinter/Ink-Tester) - A simple testing framework for stories written in Inkle's Ink.
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -1500,6 +1501,7 @@
 
 ## Python 
 
+- [knulli-cfw/distribution](https://github.com/knulli-cfw/distribution) - Main KNULLI distribution
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [DataDog/malicious-software-packages-dataset](https://github.com/DataDog/malicious-software-packages-dataset) - An open-source dataset of malicious software packages found in the wild, 100% vetted by humans.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.

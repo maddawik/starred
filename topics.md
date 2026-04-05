@@ -1037,6 +1037,7 @@
 
 ## csharp 
 
+- [elamaunt/GDShrapt](https://github.com/elamaunt/GDShrapt) - Language intelligence platform for GDScript: parser, semantic analysis, refactoring, CLI, LSP, and Godot plugin.
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [nathanhoad/godot_sound_manager](https://github.com/nathanhoad/godot_sound_manager) - A simple music and sound effect player for the Godot Engine
@@ -1369,6 +1370,7 @@
 
 ## dotnet 
 
+- [elamaunt/GDShrapt](https://github.com/elamaunt/GDShrapt) - Language intelligence platform for GDScript: parser, semantic analysis, refactoring, CLI, LSP, and Godot plugin.
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -1904,6 +1906,7 @@
 
 ## godot 
 
+- [elamaunt/GDShrapt](https://github.com/elamaunt/GDShrapt) - Language intelligence platform for GDScript: parser, semantic analysis, refactoring, CLI, LSP, and Godot plugin.
 - [shipth-is/cli](https://github.com/shipth-is/cli) - CLI to build and publish Godot games to the App Store and Google Play - no Xcode or Android Studio required.
 - [godot-gdunit-labs/gdUnit4-action](https://github.com/godot-gdunit-labs/gdUnit4-action) - 🎮 Official GdUnit4 GitHub Action for automated testing in Godot 4.x projects. Supports GDScript & C#, test reporting, and CI/CD pipeline integration. Built for game developers to streamline their test
 - [Maaack/Godot-Menus-Template](https://github.com/Maaack/Godot-Menus-Template) - Godot template with a main menu, options menus, credits, and a scene loader.
@@ -3552,6 +3555,7 @@
 
 ## others 
 
+- [knulli-cfw/distribution](https://github.com/knulli-cfw/distribution) - Main KNULLI distribution
 - [temporal-community/temporal-ecs](https://github.com/temporal-community/temporal-ecs) - 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [spf13/go-skills](https://github.com/spf13/go-skills) - 

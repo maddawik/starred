@@ -3489,6 +3489,7 @@
 
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -4367,7 +4368,7 @@
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [vulncheck-oss/vulnerability-research](https://github.com/vulncheck-oss/vulnerability-research) - The home of research.vulncheck.com
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -5294,6 +5295,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad

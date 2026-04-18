@@ -960,7 +960,6 @@
 - [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter) - Easily create a portfolio with Next.js and Markdown.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [matt-ball/postman-local](https://github.com/matt-ball/postman-local) - A client to facilitate local development of scripts for Postman.
@@ -1326,6 +1325,7 @@
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 
 ## Markdown 
 

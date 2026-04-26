@@ -1050,6 +1050,7 @@
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) - A plugin to search for and insert emojis/kaomojis, with auto-completion support, right from Neovim 😀
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [nvim-mini/mini.snippets](https://github.com/nvim-mini/mini.snippets) - Manage and expand snippets. Part of 'mini.nvim' library.
 - [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
@@ -2134,7 +2135,6 @@
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.

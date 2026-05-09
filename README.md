@@ -391,7 +391,6 @@
 - [Daylily-Zeleen/GDScript-Formatter](https://github.com/Daylily-Zeleen/GDScript-Formatter) - An addons for formatting GDScript.
 - [joshnajera/godot-vim](https://github.com/joshnajera/godot-vim) - VIM bindings for godot 4
 - [ZeeWeasel/LogDuck](https://github.com/ZeeWeasel/LogDuck) - A straight-forward logging addon for Godot 4.x
-- [GDQuest/GDTour](https://github.com/GDQuest/GDTour) - A framework for interactive step-by-step tutorials in the Godot editor
 - [gdquest-demos/godot-4-new-features](https://github.com/gdquest-demos/godot-4-new-features) - Free and open-source Godot 4 demo scenes to see the new features in action
 - [KorinDev/Godot-Post-Process-Plugin](https://github.com/KorinDev/Godot-Post-Process-Plugin) - A simple godot 4.2 plugin that adds shader based "post processing"
 - [clayjohn/godot-volumetric-cloud-demo-v2](https://github.com/clayjohn/godot-volumetric-cloud-demo-v2) - V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo
@@ -739,6 +738,7 @@
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [sanity-io/litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
@@ -1631,7 +1631,6 @@
 - [jonashaag/klaus](https://github.com/jonashaag/klaus) - docker run klaus / pip install klaus — the first Git web viewer that Just Works™.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
@@ -2097,6 +2096,7 @@
 
 ## TypeScript 
 
+- [harsha-iiiv/openapi-mcp-generator](https://github.com/harsha-iiiv/openapi-mcp-generator) - A tool that converts OpenAPI specifications to MCP server
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers

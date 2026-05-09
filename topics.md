@@ -3613,6 +3613,7 @@
 
 ## others 
 
+- [harsha-iiiv/openapi-mcp-generator](https://github.com/harsha-iiiv/openapi-mcp-generator) - A tool that converts OpenAPI specifications to MCP server
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
@@ -3889,7 +3890,6 @@
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [y-lohse/graphink](https://github.com/y-lohse/graphink) - 
 - [redplanetlabs/twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon) - Twitter-scale Mastodon implementation in 100x less code than Twitter wrote to build the equivalent
-- [GDQuest/GDTour](https://github.com/GDQuest/GDTour) - A framework for interactive step-by-step tutorials in the Godot editor
 - [laughedelic/fish_logo](https://github.com/laughedelic/fish_logo) - 🐠 Fish shell colorful ASCII-art logo
 - [PatrickF1/colored_man_pages.fish](https://github.com/PatrickF1/colored_man_pages.fish) - Fish shell plugin to colorize man pages
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust

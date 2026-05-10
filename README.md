@@ -885,7 +885,7 @@
 
 ## Java 
 
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [OpenAPITools/openapi-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [apache/hbase](https://github.com/apache/hbase) - Apache HBase
@@ -1709,6 +1709,8 @@
 
 ## Rust 
 
+- [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.

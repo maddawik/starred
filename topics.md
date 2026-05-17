@@ -4159,7 +4159,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
+- [gdquest-demos/godot-4-procedural-generation](https://github.com/gdquest-demos/godot-4-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -4168,7 +4168,7 @@
 - [skills/hello-github-actions](https://github.com/skills/hello-github-actions) - Create and run a GitHub Actions workflow.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [com-lihaoyi/Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scala Scripting
-- [gdquest-demos/godot-2d-visual-novel](https://github.com/gdquest-demos/godot-2d-visual-novel) - A Visual Novel demo made with the Godot game engine
+- [gdquest-demos/godot-4-2d-visual-novel](https://github.com/gdquest-demos/godot-4-2d-visual-novel) - A Visual Novel demo made with the Godot game engine
 - [matiffeder/3DS-stuff](https://github.com/matiffeder/3DS-stuff) - 
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world

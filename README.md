@@ -437,6 +437,7 @@
 
 ## Go 
 
+- [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [infracost/actions](https://github.com/infracost/actions) - GitHub Action for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill!
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
@@ -497,7 +498,7 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/terraform-provider-null](https://github.com/hashicorp/terraform-provider-null) - Utility provider that provides constructs that intentionally do nothing, useful in various situations to help orchestrate tricky behavior or work around limitations.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation

@@ -3641,6 +3641,8 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
@@ -3649,7 +3651,7 @@
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol

@@ -795,7 +795,7 @@
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
@@ -2224,7 +2224,7 @@
 ## graphql 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -2878,7 +2878,7 @@
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) - An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [nvim-mini/mini.splitjoin](https://github.com/nvim-mini/mini.splitjoin) - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.
@@ -3258,7 +3258,7 @@
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) - An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - Neovim file explorer
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
@@ -4051,8 +4051,6 @@
 - [HampusHauffman/block.nvim](https://github.com/HampusHauffman/block.nvim) - 
 - [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
-- [dwarvesf/micro-sniff](https://github.com/dwarvesf/micro-sniff) - An ultra-light macOS utility that notify whenever your micro-device is being used
-- [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [habamax/vim-godot](https://github.com/habamax/vim-godot) - Use vim and godot engine to make games
 - [dmmulroy/ocaml-playlist-transfer](https://github.com/dmmulroy/ocaml-playlist-transfer) - Transfer playlists seamlessly between spotify and apple music
 - [CptPotato/GodotThings](https://github.com/CptPotato/GodotThings) - Some of my snippets and other bits for the Godot game engine.

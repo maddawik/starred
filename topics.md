@@ -297,6 +297,7 @@
 ## agent 
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -719,7 +720,6 @@
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 
@@ -1212,7 +1212,7 @@
 ## deno 
 
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 
 ## deployment 
 
@@ -1801,7 +1801,7 @@
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, a
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
@@ -1892,7 +1892,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
@@ -2035,7 +2035,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [warrensbox/tgswitch](https://github.com/warrensbox/tgswitch) - Manage terragrunt versions - the tgswitch command line tool lets you switch between different versions of terragrunt
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI
+- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, a
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -2134,7 +2134,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -2596,7 +2596,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -2837,7 +2837,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## low-code 
 
@@ -3643,6 +3643,11 @@
 
 ## others 
 
+- [misantronic/RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy) - RetroAchievements - Offline. A local proxy that lets you earn softcore RetroAchievements without an internet connection.
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+- [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vancluever/z2d](https://github.com/vancluever/z2d) - Pure Zig 2D graphics library
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
@@ -5416,7 +5421,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your

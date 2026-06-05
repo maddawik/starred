@@ -864,7 +864,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [klinquist/iOS-VPN-Autoconnect](https://github.com/klinquist/iOS-VPN-Autoconnect) - Generates a mobileconfig file to auto-connect to a VPN on your iOS device.
-- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 
 ## Haskell 
 

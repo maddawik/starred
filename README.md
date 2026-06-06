@@ -953,7 +953,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [matt-ball/newman-action](https://github.com/matt-ball/newman-action) - Use Postman's headless collection runner, Newman, via a GitHub Action.
 - [bahmutov/npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
-- [grafana/k6-action](https://github.com/grafana/k6-action) - [Archived] Legacy k6 GitHub Action
+- [grafana-cold-storage/k6-action](https://github.com/grafana-cold-storage/k6-action) - [Archived] Legacy k6 GitHub Action
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -1030,6 +1030,7 @@
 
 ## Lua 
 
+- [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) - Get user input. Part of 'mini.nvim' library.
 - [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
 - [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
@@ -1532,6 +1533,8 @@
 
 ## Python 
 
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [strands-agents/evals](https://github.com/strands-agents/evals) - A comprehensive evaluation framework for AI agents and LLM applications.
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [knulli-cfw/distribution](https://github.com/knulli-cfw/distribution) - Main KNULLI distribution

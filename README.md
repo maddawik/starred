@@ -1001,6 +1001,7 @@
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [nginx/ansible-role-nginx-config](https://github.com/nginx/ansible-role-nginx-config) - Ansible role for configuring NGINX
+- [nginx/ansible-role-nginx](https://github.com/nginx/ansible-role-nginx) - Ansible role for installing NGINX
 
 ## Jupyter Notebook 
 
@@ -1549,7 +1550,7 @@
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
@@ -2012,7 +2013,6 @@
 - [faho/fish-snippets](https://github.com/faho/fish-snippets) - Some neat fish snippets and tricks
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-- [nginx/ansible-role-nginx](https://github.com/nginx/ansible-role-nginx) - Ansible role for installing NGINX
 - [yardnsm/tmux-1password](https://github.com/yardnsm/tmux-1password) - :key: Access your 1Password login items within tmux!
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
 - [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish

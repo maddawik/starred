@@ -676,7 +676,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [wojciech-graj/doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -704,7 +704,7 @@
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see wit
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -807,7 +807,7 @@
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
@@ -2462,7 +2462,7 @@
 ## homebrew 
 
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
@@ -2864,7 +2864,7 @@
 - [nvim-mini/mini.cmdline](https://github.com/nvim-mini/mini.cmdline) - Command line tweaks. Part of 'mini.nvim' library.
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [mellow-theme/mellow.nvim](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme for neovim and friends.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
@@ -3233,7 +3233,7 @@
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) - Neovim config examples based on MINI
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [mellow-theme/mellow.nvim](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme for neovim and friends.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [sharph/zellij-nvim-nav-plugin](https://github.com/sharph/zellij-nvim-nav-plugin) - A plugin for zellij to run alongside zellij-nav.nvim
@@ -3543,6 +3543,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -3601,6 +3602,7 @@
 
 ## open-source 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -4469,6 +4471,7 @@
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [vulncheck-oss/vulnerability-research](https://github.com/vulncheck-oss/vulnerability-research) - The home of research.vulncheck.com
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
@@ -4739,7 +4742,7 @@
 - [char-ptr/gdke](https://github.com/char-ptr/gdke) - Extract encryption key from godot binaries externally with a gui.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [GDQuest/GDScript-formatter](https://github.com/GDQuest/GDScript-formatter) - A faster code formatter for GDScript and Godot 4
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -4916,7 +4919,7 @@
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) - Format agnostic SBOM tooling
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an extreme dotenv–from the creator of `dotenv`
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand

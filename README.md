@@ -1538,6 +1538,7 @@
 
 ## Python 
 
+- [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
 - [anchore/grype-db](https://github.com/anchore/grype-db) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
@@ -2339,7 +2340,7 @@
 - [vancluever/z2d](https://github.com/vancluever/z2d) - Pure Zig 2D graphics library
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
-- [botirk38/pico-os](https://github.com/botirk38/pico-os) - A minimal RISC-V 32-bit OS written in Zig.
+- [botirkhaltaev/pico-os](https://github.com/botirkhaltaev/pico-os) - A minimal RISC-V 32-bit OS written in Zig.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.

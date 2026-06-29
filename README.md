@@ -1538,6 +1538,8 @@
 
 ## Python 
 
+- [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
+- [S-Sigdel/vimhjkl](https://github.com/S-Sigdel/vimhjkl) - learn vim from your terminal with spaced repetition
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
 - [anchore/grype-db](https://github.com/anchore/grype-db) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you

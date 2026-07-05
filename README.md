@@ -1735,6 +1735,7 @@
 
 ## Rust 
 
+- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [vale-cli/vale-ls](https://github.com/vale-cli/vale-ls) - :zap: An implementation of the Language Server Protocol (LSP) for the Vale command-line tool.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution

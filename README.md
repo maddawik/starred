@@ -437,6 +437,8 @@
 
 ## Go 
 
+- [temporalio/samples-server](https://github.com/temporalio/samples-server) - 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [arsham/figurine](https://github.com/arsham/figurine) - Print your name in style
 - [CycloneDX/cyclonedx-go](https://github.com/CycloneDX/cyclonedx-go) - Go library to consume and produce CycloneDX Software Bill of Materials (SBOM)
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -1372,6 +1374,7 @@
 
 ## Mustache 
 
+- [temporalio/helm-charts](https://github.com/temporalio/helm-charts) - Temporal Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [openapi-generators/openapitools-generator-action](https://github.com/openapi-generators/openapitools-generator-action) - Generate a client library using the OpenAPITools Generator
 

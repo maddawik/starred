@@ -167,7 +167,6 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool) - An open-source tool for controlling IPMI-enabled systems
 - [simple64/simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
-- [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
@@ -437,6 +436,7 @@
 
 ## Go 
 
+- [temporalio/samples-go](https://github.com/temporalio/samples-go) - Samples for working with the Temporal Go SDK
 - [temporalio/samples-server](https://github.com/temporalio/samples-server) - 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [arsham/figurine](https://github.com/arsham/figurine) - Print your name in style
@@ -2054,6 +2054,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [info-mono/diyfetch](https://github.com/info-mono/diyfetch) - 🧰📠 The ultimate fetch tool template
 - [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
+- [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
 - [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac.
 - [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
@@ -2137,6 +2138,7 @@
 
 ## TypeScript 
 
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [ctrf-io/github-test-reporter](https://github.com/ctrf-io/github-test-reporter) - Publish and view test reporting directly in your GitHub Actions CI/CD workflow and Pull Requests with detailed test summaries, failed test analyses, and flaky test detection.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 

@@ -1545,6 +1545,7 @@
 
 ## Python 
 
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
 - [S-Sigdel/vimhjkl](https://github.com/S-Sigdel/vimhjkl) - learn vim from your terminal with spaced repetition
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
@@ -1740,6 +1741,7 @@
 
 ## Rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [vale-cli/vale-ls](https://github.com/vale-cli/vale-ls) - :zap: An implementation of the Language Server Protocol (LSP) for the Vale command-line tool.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -2139,6 +2141,7 @@
 
 ## TypeScript 
 
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [ctrf-io/github-test-reporter](https://github.com/ctrf-io/github-test-reporter) - Publish and view test reporting directly in your GitHub Actions CI/CD workflow and Pull Requests with detailed test summaries, failed test analyses, and flaky test detection.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.

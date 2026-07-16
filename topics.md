@@ -777,6 +777,7 @@
 
 ## cli 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [mozilla-ai/mcpd](https://github.com/mozilla-ai/mcpd) - Declaratively define and run required tools across environments, from local development to containerized cloud deployments.
@@ -1729,6 +1730,7 @@
 
 ## gh-extension 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [sayanarijit/gh-xplr](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI
@@ -1796,6 +1798,7 @@
 
 ## github 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [ctrf-io/github-test-reporter](https://github.com/ctrf-io/github-test-reporter) - Publish and view test reporting directly in your GitHub Actions CI/CD workflow and Pull Requests with detailed test summaries, failed test analyses, and flaky test detection.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event

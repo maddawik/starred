@@ -436,6 +436,7 @@
 
 ## Go 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Samples for working with the Temporal Go SDK
 - [temporalio/samples-server](https://github.com/temporalio/samples-server) - 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS

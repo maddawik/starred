@@ -917,7 +917,7 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
@@ -971,7 +971,7 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1033,7 +1033,7 @@
 
 ## Kotlin 
 
-- [misantronic/RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy) - RetroAchievements - Offline. A local proxy that lets you earn softcore RetroAchievements without an internet connection.
+- [misantronic/RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy) - RetroAchievements - Offline. A local proxy that lets you earn casual RetroAchievements without an internet connection.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## LLVM 
@@ -1588,6 +1588,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -2191,7 +2192,6 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.

@@ -1747,6 +1747,7 @@
 
 ## Rust 
 
+- [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) - Language model tokenization at GB/s
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [vale-cli/vale-ls](https://github.com/vale-cli/vale-ls) - :zap: An implementation of the Language Server Protocol (LSP) for the Vale command-line tool.

@@ -3767,6 +3767,7 @@
 
 ## others 
 
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [plttn/tide](https://github.com/plttn/tide) - 🌊 The ultimate Fish prompt.

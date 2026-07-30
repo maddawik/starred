@@ -959,7 +959,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [y-lohse/graphink](https://github.com/y-lohse/graphink) - 
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
@@ -1049,6 +1049,7 @@
 
 ## Lua 
 
+- [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) - Work with GitHub in Neovim 🌊
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) - Get user input. Part of 'mini.nvim' library.
 - [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty) - Tree-sitter grammar for Ghostty configuration files
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
@@ -1435,6 +1436,7 @@
 
 ## Others 
 
+- [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
 - [cultron/becoming-martin-fowler](https://github.com/cultron/becoming-martin-fowler) - A curated collection of Martin Fowler's software engineering and architecture wisdom, organized by topic.
 - [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts

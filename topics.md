@@ -48,6 +48,7 @@
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -994,6 +995,10 @@
 ## code-quality 
 
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+
+## code-review 
+
+- [wez/wiff](https://github.com/wez/wiff) - sniff out the wiff in your diff, from the comfort of your terminal. wiff is a terminal-centric code review tool
 
 ## coding 
 
@@ -3767,6 +3772,7 @@
 
 ## others 
 
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 

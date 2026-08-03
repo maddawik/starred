@@ -440,6 +440,7 @@
 
 ## Go 
 
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [platacard/terraform-provider-temporal](https://github.com/platacard/terraform-provider-temporal) - Terraform provider to manage Temporal Server resources
 - [Bios-Marcel/wastebasket](https://github.com/Bios-Marcel/wastebasket) - A crossplatform go library for moving files to the trashbin
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
@@ -1039,7 +1040,6 @@
 
 ## Kotlin 
 
-- [misantronic/RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy) - RetroAchievements - Offline. A local proxy that lets you earn casual RetroAchievements without an internet connection.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## LLVM 
@@ -1564,6 +1564,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+- [misantronic/RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy) - RetroAchievements - Offline. A local proxy that lets you earn casual RetroAchievements without an internet connection.
 - [strands-agents/evals](https://github.com/strands-agents/evals) - A comprehensive evaluation framework for AI agents and LLM applications.
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [knulli-cfw/distribution](https://github.com/knulli-cfw/distribution) - OLD KNULLI Repository: use https://github.com/knulli-cfw/knulli-linux instead
@@ -1755,6 +1756,7 @@
 
 ## Rust 
 
+- [wez/wiff](https://github.com/wez/wiff) - sniff out the wiff in your diff, from the comfort of your terminal. wiff is a terminal-centric code review tool
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) - Language model tokenization at GB/s
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies

@@ -1443,7 +1443,7 @@
 
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
 - [cultron/becoming-martin-fowler](https://github.com/cultron/becoming-martin-fowler) - A curated collection of Martin Fowler's software engineering and architecture wisdom, organized by topic.
-- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
+- [ornith-ai/Ornith-1](https://github.com/ornith-ai/Ornith-1) - 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [spf13/go-skills](https://github.com/spf13/go-skills) - 
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D

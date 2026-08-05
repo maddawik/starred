@@ -3787,7 +3787,7 @@
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Samples for working with the Temporal Go SDK
 - [temporalio/samples-server](https://github.com/temporalio/samples-server) - 
 - [temporalio/helm-charts](https://github.com/temporalio/helm-charts) - Temporal Helm charts
-- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) - 
+- [ornith-ai/Ornith-1](https://github.com/ornith-ai/Ornith-1) - 
 - [S-Sigdel/vimhjkl](https://github.com/S-Sigdel/vimhjkl) - learn vim from your terminal with spaced repetition
 - [vale-cli/vale-ls](https://github.com/vale-cli/vale-ls) - :zap: An implementation of the Language Server Protocol (LSP) for the Vale command-line tool.
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.

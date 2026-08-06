@@ -1562,7 +1562,7 @@
 ## Python 
 
 - [GethosTheWalrus/temporal-mcp](https://github.com/GethosTheWalrus/temporal-mcp) - 
-- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
 - [S-Sigdel/vimhjkl](https://github.com/S-Sigdel/vimhjkl) - learn vim from your terminal with spaced repetition
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)

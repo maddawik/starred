@@ -164,7 +164,6 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
-- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
@@ -204,7 +203,6 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
-- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [pico-8](#pico-8)
@@ -1382,6 +1380,7 @@
 
 ## distributed-systems 
 
+- [uber/submitqueue](https://github.com/uber/submitqueue) - SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -2117,6 +2116,7 @@
 
 ## golang 
 
+- [uber/submitqueue](https://github.com/uber/submitqueue) - SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
 - [Bios-Marcel/wastebasket](https://github.com/Bios-Marcel/wastebasket) - A crossplatform go library for moving files to the trashbin
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [arsham/figurine](https://github.com/arsham/figurine) - Print your name in style
@@ -2358,6 +2358,7 @@
 
 ## hacktoberfest 
 
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
 - [anchore/grype-db](https://github.com/anchore/grype-db) - 
@@ -3196,10 +3197,6 @@
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
-
-## malware 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## markdown 
 
@@ -4470,10 +4467,6 @@
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [Berkanktk/CyberSecurity](https://github.com/Berkanktk/CyberSecurity) - A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 
-## phishing 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-
 ## php 
 
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -4530,7 +4523,6 @@
 ## privacy 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end

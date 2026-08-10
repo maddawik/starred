@@ -75,7 +75,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Text](#text)
 - [Thrift](#thrift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -95,6 +94,7 @@
 
 ## Assembly 
 
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
@@ -445,6 +445,7 @@
 
 ## Go 
 
+- [uber/submitqueue](https://github.com/uber/submitqueue) - SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [platacard/terraform-provider-temporal](https://github.com/platacard/terraform-provider-temporal) - Terraform provider to manage Temporal Server resources
@@ -2153,10 +2154,6 @@
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [JK3Y/NPS-Browser-macOS](https://github.com/JK3Y/NPS-Browser-macOS) - macOS version of NPS Browser
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Thrift 
 

@@ -973,6 +973,7 @@
 
 ## cloud 
 
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
@@ -3796,7 +3797,6 @@
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [plttn/tide](https://github.com/plttn/tide) - 🌊 The ultimate Fish prompt.
 - [GethosTheWalrus/temporal-mcp](https://github.com/GethosTheWalrus/temporal-mcp) - 
@@ -5587,6 +5587,7 @@
 
 ## typescript 
 
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown

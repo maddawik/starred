@@ -3795,6 +3795,8 @@
 
 ## others 
 
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
+- [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [DataDog/fastjq](https://github.com/DataDog/fastjq) - A fast jq engine for Go with a principled allocation model, designed for high-throughput structured log processing.

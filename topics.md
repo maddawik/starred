@@ -3803,6 +3803,7 @@
 
 ## others 
 
+- [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.

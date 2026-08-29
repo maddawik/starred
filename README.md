@@ -459,6 +459,9 @@
 
 ## Go 
 
+- [knqyf263/go-apk-version](https://github.com/knqyf263/go-apk-version) - A golang library for parsing apk package versions
+- [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders ("boilerplate") from a set of templates
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [DataDog/fastjq](https://github.com/DataDog/fastjq) - A fast jq engine for Go with a principled allocation model, designed for high-throughput structured log processing.
 - [uber/submitqueue](https://github.com/uber/submitqueue) - SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
@@ -1806,7 +1809,7 @@
 - [flamestro/deff](https://github.com/flamestro/deff) - interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
-- [cantrepro/tsink](https://github.com/cantrepro/tsink) - A lightweight time-series database written in Rust. Embed it, run it as a server, or scale it as a cluster.
+- [aidlx/tsink](https://github.com/aidlx/tsink) - A lightweight time-series database written in Rust. Embed it, run it as a server, or scale it as a cluster.
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -2055,7 +2058,7 @@
 - [mattmc3/fishconf](https://github.com/mattmc3/fishconf) - :fish: :shell: My fish config
 - [rose-pine/fish](https://github.com/rose-pine/fish) - Soho vibes for fish
 - [2KAbhishek/tmux2k](https://github.com/2KAbhishek/tmux2k) - Make tmux powerful and pretty 🥊💅
-- [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
+- [client9/shlib](https://github.com/client9/shlib) - generate `curl | sh` installers, and portable shell functions
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [forteleaf/sketkchybar-with-aerospace](https://github.com/forteleaf/sketkchybar-with-aerospace) - 
 - [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar

@@ -2059,7 +2059,7 @@
 - [mattmc3/fishconf](https://github.com/mattmc3/fishconf) - :fish: :shell: My fish config
 - [rose-pine/fish](https://github.com/rose-pine/fish) - Soho vibes for fish
 - [2KAbhishek/tmux2k](https://github.com/2KAbhishek/tmux2k) - Make tmux powerful and pretty 🥊💅
-- [client9/shlib](https://github.com/client9/shlib) - generate `curl | sh` installers, and portable shell functions
+- [client9/shlib](https://github.com/client9/shlib) - generate a `curl | sh` installer for 30+ target platforms
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [forteleaf/sketkchybar-with-aerospace](https://github.com/forteleaf/sketkchybar-with-aerospace) - 
 - [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar) - Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar

@@ -530,7 +530,7 @@
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -566,7 +566,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1726,7 +1726,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [huderlem/porymap](https://github.com/huderlem/porymap) - Map editor for pokeemerald, pokefirered, and pokeruby
@@ -2127,7 +2127,7 @@
 - [viniciusgerevini/godot-aseprite-wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Godot Editor plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
 - [abarichello/godot-ci](https://github.com/abarichello/godot-ci) - Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [gdquest-demos/godot-3-demos](https://github.com/gdquest-demos/godot-3-demos) - Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+
 - [godotengine/godot-git-plugin](https://github.com/godotengine/godot-git-plugin) - Git implementation of the VCS interface in Godot
 - [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
@@ -3136,6 +3136,7 @@
 
 ## mac 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
@@ -3647,6 +3648,7 @@
 
 ## nextjs 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -3751,6 +3753,7 @@
 
 ## open-source 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -4826,6 +4829,7 @@
 
 ## react 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -4932,6 +4936,7 @@
 
 ## rust 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -5639,6 +5644,7 @@
 
 ## typescript 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.

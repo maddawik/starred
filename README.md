@@ -581,7 +581,7 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [approvals/go-approval-tests](https://github.com/approvals/go-approval-tests) - 
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Packer, Ansible, Kubernetes, Helm, and containers the same way on your laptop, in CI, and
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -1788,7 +1788,7 @@
 
 ## Rust 
 
-- [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit) - gpui-kit is an (upcoming) open-source UI toolkit for gpui, the fast, native Rust GUI library.
+- [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit) - gpui-kit is an open-source UI toolkit for gpui, the fast, native Rust GUI library.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [tobi/walgit](https://github.com/tobi/walgit) - 
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.

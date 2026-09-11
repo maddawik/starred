@@ -459,6 +459,7 @@
 
 ## Go 
 
+- [vulncheck-oss/mcp](https://github.com/vulncheck-oss/mcp) - Official VulnCheck MCP Server
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -908,7 +909,6 @@
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [Talinx/jp2a](https://github.com/Talinx/jp2a) - Converts jpg/png/webp images to ASCII
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -922,7 +922,7 @@
 
 - [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jupyter-xeus/xeus-haskell](https://github.com/jupyter-xeus/xeus-haskell) - jupyter / jupyterlite kernel for Haskell powered by WebAssembly
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
@@ -1007,6 +1007,7 @@
 - [tree-sitter/tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json) - JSON grammar for tree-sitter
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [matt-ball/newman-action](https://github.com/matt-ball/newman-action) - Use Postman's headless collection runner, Newman, via a GitHub Action.
 - [bahmutov/npm-install](https://github.com/bahmutov/npm-install) - GitHub Action for install npm dependencies with caching without any configuration
 - [grafana-cold-storage/k6-action](https://github.com/grafana-cold-storage/k6-action) - [Archived] Legacy k6 GitHub Action
@@ -1061,8 +1062,8 @@
 
 ## Jupyter Notebook 
 
-- [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
 - [vulncheck-oss/vulnerability-research](https://github.com/vulncheck-oss/vulnerability-research) - The home of research.vulncheck.com
+- [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython) - Jupyter notebooks and other resources for Think Python by Allen Downey, published by O'Reilly Media.
 - [vulncheck-oss/jupyter-notebooks](https://github.com/vulncheck-oss/jupyter-notebooks) - VulnCheck Jupyter Notebooks
@@ -1287,7 +1288,6 @@
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -1576,7 +1576,6 @@
 
 ## PLpgSQL 
 
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [datacharmer/test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
 
 ## Perl 
@@ -1657,7 +1656,6 @@
 - [ofek/dep-sync](https://github.com/ofek/dep-sync) - Synchronize Python environments with dependencies
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [vulncheck-oss/sdk-python](https://github.com/vulncheck-oss/sdk-python) - A generated Python SDK from VulnCheck's OpenAPI specification
 - [TURROKS/CVE_Prioritizer](https://github.com/TURROKS/CVE_Prioritizer) - Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [pytest-dev/pytest-timeout](https://github.com/pytest-dev/pytest-timeout) - 
@@ -1816,6 +1814,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [vale-cli/vale-ls](https://github.com/vale-cli/vale-ls) - :zap: An implementation of the Language Server Protocol (LSP) for the Vale command-line tool.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
+- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -1890,7 +1889,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF
 - [uncenter/kittysay](https://github.com/uncenter/kittysay) - cowsay, but with a cute kitty :3
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
@@ -2290,6 +2289,7 @@
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [raid-teyar/raidteyar-shittier](https://github.com/raid-teyar/raidteyar-shittier) - Code formatting vscode extension
 - [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) - This repo is a reincarnation of obsidian-local-images plugin which main aim was downloading images in md notes to local storage.

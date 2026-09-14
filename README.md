@@ -1625,7 +1625,7 @@
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [tox-dev/pre-commit-uv](https://github.com/tox-dev/pre-commit-uv) - 
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB)
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [apowis/jwt_pydantic](https://github.com/apowis/jwt_pydantic) - Pip package - verify JWT claims using the powerful features of Pydantic.
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs

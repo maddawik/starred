@@ -551,6 +551,7 @@
 
 ## awesome-list 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -1272,6 +1273,7 @@
 
 ## database 
 
+- [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [aidlx/tsink](https://github.com/aidlx/tsink) - A lightweight time-series database written in Rust. Embed it, run it as a server, or scale it as a cluster.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
@@ -1711,6 +1713,7 @@
 
 ## game-development 
 
+- [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [godot-gdunit-labs/gdUnit4-action](https://github.com/godot-gdunit-labs/gdUnit4-action) - 🎮 Official GdUnit4 GitHub Action for automated testing in Godot 4.x projects. Supports GDScript & C#, test reporting, and CI/CD pipeline integration. Built for game developers to streamline their test
@@ -1745,6 +1748,7 @@
 
 ## game-engine 
 
+- [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -2090,6 +2094,7 @@
 
 ## godot 
 
+- [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [elamaunt/GDShrapt](https://github.com/elamaunt/GDShrapt) - Language intelligence platform for GDScript: parser, semantic analysis, refactoring, CLI, LSP, and Godot plugin.
@@ -2152,6 +2157,7 @@
 
 ## golang 
 
+- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates
 - [evanoberholster/imagemeta](https://github.com/evanoberholster/imagemeta) - Image Metadata (Exif and XMP) extraction for JPEG, HEIC, AVIF, TIFF and Camera Raw in golang. Focus is on providing features and improved performance.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [vulncheck-oss/mcp](https://github.com/vulncheck-oss/mcp) - Official VulnCheck MCP Server
@@ -3853,6 +3859,7 @@
 
 ## osint 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [devops-ia/helm-opencti](https://github.com/devops-ia/helm-opencti) - Helm chart for Open Cyber Threat Intelligence Platform
 
 ## others 
@@ -5965,6 +5972,7 @@
 
 ## website 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [NvChad/nvchad.github.io](https://github.com/NvChad/nvchad.github.io) - Site for NvChad built using solidjs + unocss
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw

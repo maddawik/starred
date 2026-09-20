@@ -3864,6 +3864,7 @@
 
 ## others 
 
+- [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench) - ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.
 - [and-rs/flash.tmux](https://github.com/and-rs/flash.tmux) - Navigate terminal panes by jumping
 - [Blade67/GATE](https://github.com/Blade67/GATE) - A Godot Engine GDScript superset.
@@ -4960,6 +4961,7 @@
 
 ## reverse-engineering 
 
+- [PrimeDecomp/prime](https://github.com/PrimeDecomp/prime) - A matching decompilation of Metroid Prime
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)

@@ -684,7 +684,7 @@
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
 - [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [TomDoesTech/GOTTH](https://github.com/TomDoesTech/GOTTH) - 
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go
@@ -1812,6 +1812,7 @@
 
 ## Rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.

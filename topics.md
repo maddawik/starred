@@ -2159,6 +2159,7 @@
 
 ## golang 
 
+- [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go
 - [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates
 - [evanoberholster/imagemeta](https://github.com/evanoberholster/imagemeta) - Image Metadata (Exif and XMP) extraction for JPEG, HEIC, AVIF, TIFF and Camera Raw in golang. Focus is on providing features and improved performance.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks

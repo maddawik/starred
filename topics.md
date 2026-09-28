@@ -769,6 +769,7 @@
 ## chatbot 
 
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
 
 ## chatgpt 
@@ -3044,6 +3045,7 @@
 
 ## lua 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
 - [nvim-mini/mini.statuscolumn](https://github.com/nvim-mini/mini.statuscolumn) - Fast statuscolumn with improved defaults. Part of 'mini.nvim' library.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) - Get user input. Part of 'mini.nvim' library.
@@ -3211,7 +3213,6 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -3355,6 +3356,7 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -3859,6 +3861,7 @@
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3886,6 +3889,8 @@
 
 ## others 
 
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 - [ninjadynamics/PS2Docs](https://github.com/ninjadynamics/PS2Docs) - 
@@ -5025,6 +5030,7 @@
 
 ## rust 
 
+- [calebzulawski/multiversion](https://github.com/calebzulawski/multiversion) - Easy function multiversioning for Rust
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -5697,6 +5703,7 @@
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH

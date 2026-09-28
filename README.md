@@ -1818,6 +1818,9 @@
 
 ## Rust 
 
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
+- [calebzulawski/multiversion](https://github.com/calebzulawski/multiversion) - Easy function multiversioning for Rust
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered

@@ -845,6 +845,7 @@
 
 ## cli 
 
+- [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
@@ -2438,6 +2439,7 @@
 
 ## hacktoberfest 
 
+- [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [0xarchit/github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer) - Github Profile analyzer or analyser and reviewer tool. Gives review based on first 100 repos and only includes those forks in which user has contributions to avoid fake results | #1 profile analyzer o
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [hexpm/hex](https://github.com/hexpm/hex) - Package manager for the Erlang ecosystem.
@@ -3896,6 +3898,7 @@
 
 ## others 
 
+- [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR) - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.
 - [openai/vetu](https://github.com/openai/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) - Live, beautiful GitHub-markdown preview beside your buffer in Neovim — mermaid diagrams as real images, in the terminal.
 - [cloudflare/cf](https://github.com/cloudflare/cf) - The agentic CLI for the entire Cloudflare API

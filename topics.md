@@ -291,6 +291,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -354,7 +355,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -390,7 +391,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [joshukraine/dotfiles](https://github.com/joshukraine/dotfiles) - :round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux
 
@@ -1184,7 +1185,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [pzaino/thecrowler](https://github.com/pzaino/thecrowler) - an open, self-hosted framework for discovering, collecting, understanding, correlating, transforming, and acting on information from heterogeneous environments.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 
@@ -1215,6 +1216,7 @@
 
 ## cybersecurity 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [vulncheck-oss/sdk-python](https://github.com/vulncheck-oss/sdk-python) - A generated Python SDK from VulnCheck's OpenAPI specification
 - [vulncheck-oss/mcp](https://github.com/vulncheck-oss/mcp) - Official VulnCheck MCP Server
@@ -1296,6 +1298,7 @@
 
 ## database 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [aidlx/tsink](https://github.com/aidlx/tsink) - A lightweight time-series database written in Rust. Embed it, run it as a server, or scale it as a cluster.
@@ -2748,6 +2751,7 @@
 
 ## javascript 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
@@ -2948,6 +2952,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+- [Blobfolio/riprip](https://github.com/Blobfolio/riprip) - A specialized audio CD-ripper optimized for track recovery.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
@@ -3028,7 +3033,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
@@ -3051,7 +3056,7 @@
 
 ## lua 
 
-- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [nvim-mini/mini.statuscolumn](https://github.com/nvim-mini/mini.statuscolumn) - Fast statuscolumn with improved defaults. Part of 'mini.nvim' library.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) - Get user input. Part of 'mini.nvim' library.
@@ -3203,7 +3208,7 @@
 ## mac 
 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -3235,9 +3240,10 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
+- [Blobfolio/riprip](https://github.com/Blobfolio/riprip) - A specialized audio CD-ripper optimized for track recovery.
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) - Play DOOM in Neovim v0.11+ on Linux & macOS
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -3307,7 +3313,7 @@
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
@@ -3393,6 +3399,7 @@
 
 ## mongodb 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
@@ -3422,7 +3429,7 @@
 
 ## mysql 
 
-- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
@@ -3439,6 +3446,7 @@
 
 ## neovim 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [nvim-mini/mini.statuscolumn](https://github.com/nvim-mini/mini.statuscolumn) - Fast statuscolumn with improved defaults. Part of 'mini.nvim' library.
 - [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) - Work with GitHub in Neovim 🌊
 - [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) - Get user input. Part of 'mini.nvim' library.
@@ -3678,7 +3686,7 @@
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
@@ -3763,6 +3771,7 @@
 
 ## nodejs 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
@@ -3786,6 +3795,7 @@
 
 ## nosql 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -3793,6 +3803,7 @@
 
 ## npm 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
@@ -3898,6 +3909,9 @@
 
 ## others 
 
+- [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss.
+- [schacon/ticgit](https://github.com/schacon/ticgit) - Git based distributed ticketing system, built on git-meta
+- [git-meta/git-meta](https://github.com/git-meta/git-meta) - git metadata spec and poc
 - [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR) - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.
 - [openai/vetu](https://github.com/openai/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) - Live, beautiful GitHub-markdown preview beside your buffer in Neovim — mermaid diagrams as real images, in the terminal.
@@ -4055,7 +4069,6 @@
 - [zsa/qmk_firmware](https://github.com/zsa/qmk_firmware) - QMK, forked for ZSA's Oryx Configurator (to safeguard stability)
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
-- [Blobfolio/riprip](https://github.com/Blobfolio/riprip) - A specialized audio CD-ripper optimized for track recovery.
 - [future-file-format/F3](https://github.com/future-file-format/F3) - [SIGMOD 2026] F3: The Open-Source Data File Format for the Future
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [msgpack-rpc/msgpack-rpc](https://github.com/msgpack-rpc/msgpack-rpc) - MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.
@@ -4081,7 +4094,7 @@
 - [rsc/gophershirt](https://github.com/rsc/gophershirt) - Gopher Hawaiian Shirts
 - [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - autolock Zellij when certain processes open.
+- [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock) - Seamless Zellij: modes that follow your focus
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
@@ -4658,7 +4671,7 @@
 
 ## postgresql 
 
-- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
@@ -4769,6 +4782,7 @@
 
 ## python 
 
+- [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [vulncheck-oss/sdk-python](https://github.com/vulncheck-oss/sdk-python) - A generated Python SDK from VulnCheck's OpenAPI specification
 - [vulncheck-oss/vulnerability-research](https://github.com/vulncheck-oss/vulnerability-research) - The home of research.vulncheck.com
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
@@ -5048,7 +5062,7 @@
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
 - [calebzulawski/multiversion](https://github.com/calebzulawski/multiversion) - Easy function multiversioning for Rust
-- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Query your database from your favorite editor
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
@@ -5213,6 +5227,7 @@
 
 ## security 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
@@ -5221,7 +5236,7 @@
 - [phanen/nvim-suspicious-plugin-scanner](https://github.com/phanen/nvim-suspicious-plugin-scanner) - Scan and flag suspicious neovim plugins
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [padok-team/git-secret-scanner](https://github.com/padok-team/git-secret-scanner) - Find secrets in git repositories with TruffleHog & Gitleaks
@@ -5252,8 +5267,9 @@
 
 ## security-tools 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -5387,6 +5403,7 @@
 
 ## sql 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -5405,6 +5422,7 @@
 
 ## sqlite 
 
+- [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - A Neovim database client for exploring schemas, running queries, and editing results across SQL and NoSQL databases.
 - [anchore/grype-db](https://github.com/anchore/grype-db) - 
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
@@ -5618,6 +5636,7 @@
 
 ## terraform 
 
+- [philips-labs/terraform-registry](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 - [platacard/terraform-provider-temporal](https://github.com/platacard/terraform-provider-temporal) - Terraform provider to manage Temporal Server resources
 - [hashicorp-education/learn-terraform-github-actions](https://github.com/hashicorp-education/learn-terraform-github-actions) - 
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -5934,7 +5953,7 @@
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -6065,6 +6084,11 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+
+## windows-11 
+
+- [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - Dynamic Tiling Window Manager for Windows
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 
 ## wordpress 
 

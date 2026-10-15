@@ -464,6 +464,8 @@
 
 ## Go 
 
+- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
 - [philips-labs/terraform-registry](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [openai/orchard](https://github.com/openai/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
@@ -517,7 +519,6 @@
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [infracost/actions](https://github.com/infracost/actions) - GitHub Action for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill!
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stable-diffusion.cpp directly integrated into your Go applications. Kronk provides a hig
@@ -630,6 +631,7 @@
 - [gruntwork-io/terragrunt-ls](https://github.com/gruntwork-io/terragrunt-ls) - 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [weisshorn-cyd/gocti](https://github.com/weisshorn-cyd/gocti) - Unofficial OpenCTI Golang Client
 - [hashicorp/terraform-plugin-framework](https://github.com/hashicorp/terraform-plugin-framework) - A next-generation framework for building Terraform providers.
@@ -995,6 +997,8 @@
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [thim81/openapi-format](https://github.com/thim81/openapi-format) - Format an OpenAPI document by ordering, formatting and filtering fields.
+- [statewright/statewright](https://github.com/statewright/statewright) - State machine guardrails for AI agents
+- [infracost/actions](https://github.com/infracost/actions) - GitHub Action for Infracost.  See cloud cost estimates for Terraform in pull requests. 💰📉 Love your cloud bill!
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1499,6 +1503,7 @@
 
 ## Others 
 
+- [spf13/cli-style](https://github.com/spf13/cli-style) - CLI Style — The 56 principles of command-line design for humans and AI agents (Agent Skill)
 - [ninjadynamics/PS2Docs](https://github.com/ninjadynamics/PS2Docs) - 
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [zachlagden/Pi-hole-Optimized-Blocklists](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) - Pre-built, deduplicated Pi-hole blocklists merged from curated upstream sources and community reports: a master list plus advertising, tracking, malware and phishing, suspicious, and NSFW categories. 
@@ -1625,7 +1630,6 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench) - ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [vulncheck-oss/sdk-python](https://github.com/vulncheck-oss/sdk-python) - A generated Python SDK from VulnCheck's OpenAPI specification
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [opensearch-project/opensearch-agent-skills](https://github.com/opensearch-project/opensearch-agent-skills) - A collection of Agent Skills for building search applications and analyzing observability data with OpenSearch.
 - [ofek/pypinfo](https://github.com/ofek/pypinfo) - Easily view PyPI download statistics via Google's BigQuery.
@@ -1669,7 +1673,6 @@
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1750,7 +1753,6 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1829,6 +1831,12 @@
 
 ## Rust 
 
+- [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
+- [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - oscilloscope/vectorscope/spectroscope for your terminal
+- [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [joshka/ratatui-diff](https://github.com/joshka/ratatui-diff) - Backend-independent unified and split diff widgets for Ratatui
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss.
@@ -1864,7 +1872,6 @@
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [statewright/statewright](https://github.com/statewright/statewright) - State machine guardrails for AI agents
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) - A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -2257,6 +2264,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [cloudflare/cf](https://github.com/cloudflare/cf) - The agentic CLI for the entire Cloudflare API
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
@@ -2264,7 +2272,7 @@
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [jesseduffield/ai-battlegrounds](https://github.com/jesseduffield/ai-battlegrounds) - It's about time we put LLM's in an ACTUAL arena
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa
@@ -2359,6 +2367,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
@@ -2472,7 +2481,6 @@
 ## Vue 
 
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## Wren 

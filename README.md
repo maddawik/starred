@@ -1200,6 +1200,7 @@
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
@@ -1471,7 +1472,6 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [mrjones2014/dotfiles](https://github.com/mrjones2014/dotfiles) - ❄️ My dotfiles for NixOS and macOS with nix-darwin as a Nix flake.
@@ -1795,7 +1795,7 @@
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
-- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2268,6 +2268,8 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [nicorobinreal/llmspeed](https://github.com/nicorobinreal/llmspeed) - Feel how fast a local LLM runs before you buy the hardware
 - [spaceraccoon/vulnerability-spoiler-alert-action](https://github.com/spaceraccoon/vulnerability-spoiler-alert-action) - GitHub Action to alert on security patches before the CVE drops.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.

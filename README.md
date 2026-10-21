@@ -225,7 +225,7 @@
 ## C++ 
 
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
 - [PrimeDecomp/prime](https://github.com/PrimeDecomp/prime) - A matching decompilation of Metroid Prime
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
@@ -462,7 +462,7 @@
 
 ## GLSL 
 
-- [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
+- [hackrdotsh/ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [CptPotato/GodotThings](https://github.com/CptPotato/GodotThings) - Some of my snippets and other bits for the Godot game engine.
 
 ## Go 
@@ -2058,6 +2058,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -2376,6 +2377,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
@@ -2489,7 +2491,6 @@
 ## Vue 
 
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 ## Wren 

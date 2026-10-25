@@ -86,6 +86,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -337,6 +338,7 @@
 
 ## ai 
 
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -390,7 +392,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -411,7 +413,7 @@
 
 ## analytics 
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -833,7 +835,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
@@ -859,6 +861,7 @@
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
+- [nushell/nufmt](https://github.com/nushell/nufmt) - An AST-based formatter for Nushell scripts, built on Nushell's own parser
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
@@ -1229,6 +1232,7 @@
 
 ## cybersecurity 
 
+- [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [vulncheck-oss/mcp](https://github.com/vulncheck-oss/mcp) - Official VulnCheck MCP Server
@@ -1311,7 +1315,7 @@
 ## database 
 
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Modern SQL and NoSQL database client for Neovim
 - [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1374,7 +1378,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
@@ -1472,7 +1476,7 @@
 
 ## docker 
 
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -1584,6 +1588,10 @@
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
@@ -1757,6 +1765,7 @@
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -1789,6 +1798,7 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1811,6 +1821,7 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -1836,6 +1847,7 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Yonaba/awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - :video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.
@@ -1994,7 +2006,7 @@
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
@@ -2245,7 +2257,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [CycloneDX/cyclonedx-gomod](https://github.com/CycloneDX/cyclonedx-gomod) - Creates CycloneDX Software Bill of Materials (SBOM) from Go modules
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -2684,6 +2696,7 @@
 - [sajari/docconv](https://github.com/sajari/docconv) - Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2731,6 +2744,7 @@
 
 ## ios 
 
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
@@ -3049,6 +3063,7 @@
 
 ## llm 
 
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [nicorobinreal/llmspeed](https://github.com/nicorobinreal/llmspeed) - Feel how fast a local LLM runs before you buy the hardware
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -3100,7 +3115,7 @@
 - [mellow-theme/mellow.nvim](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme for neovim and friends.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
-- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim
@@ -3264,6 +3279,7 @@
 
 ## macos 
 
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [openai/orchard](https://github.com/openai/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [Bios-Marcel/wastebasket](https://github.com/Bios-Marcel/wastebasket) - A crossplatform go library for moving files to the trashbin
@@ -3333,6 +3349,7 @@
 
 ## malware 
 
+- [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [zachlagden/Pi-hole-Optimized-Blocklists](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) - Pre-built, deduplicated Pi-hole blocklists merged from curated upstream sources and community reports: a master list plus advertising, tracking, malware and phishing, suspicious, and NSFW categories. 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
@@ -3389,7 +3406,7 @@
 ## mcp 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [vulncheck-oss/mcp](https://github.com/vulncheck-oss/mcp) - Official VulnCheck MCP Server
 - [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa
@@ -3482,6 +3499,7 @@
 
 ## neovim 
 
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Modern SQL and NoSQL database client for Neovim
 - [nvim-mini/mini.statuscolumn](https://github.com/nvim-mini/mini.statuscolumn) - Fast statuscolumn with improved defaults. Part of 'mini.nvim' library.
 - [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) - Work with GitHub in Neovim 🌊
@@ -3739,6 +3757,7 @@
 
 ## neovim-colorscheme 
 
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim) - Dark theme with relaxing and no-saturated colors
 - [yorumicolors/yorumi.nvim](https://github.com/yorumicolors/yorumi.nvim) - a dark colorscheme for neovim, inspired by kanagawa. deep code, quiet sea.
@@ -3807,7 +3826,7 @@
 
 ## nodejs 
 
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -3930,6 +3949,7 @@
 
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
@@ -3940,12 +3960,14 @@
 
 ## osint 
 
+- [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [devops-ia/helm-opencti](https://github.com/devops-ia/helm-opencti) - Helm chart for Open Cyber Threat Intelligence Platform
 
 ## others 
 
+- [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) - A compact monospace neo-grotesque font designed for developers (and adventurers).
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [spaceraccoon/vulnerability-spoiler-alert-action](https://github.com/spaceraccoon/vulnerability-spoiler-alert-action) - GitHub Action to alert on security patches before the CVE drops.
 - [spf13/cli-style](https://github.com/spf13/cli-style) - CLI Style — The 56 principles of command-line design for humans and AI agents (Agent Skill)
@@ -3984,14 +4006,13 @@
 - [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [folke/zaly](https://github.com/folke/zaly) - Hackable terminal coding agent
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [DataDog/fastjq](https://github.com/DataDog/fastjq) - A fast jq engine for Go with a principled allocation model, designed for high-throughput structured log processing.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
-- [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [plttn/tide](https://github.com/plttn/tide) - 🌊 The ultimate Fish prompt.
 - [GethosTheWalrus/temporal-mcp](https://github.com/GethosTheWalrus/temporal-mcp) - 
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions
@@ -4207,7 +4228,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
-- [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
+- [hackrdotsh/ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [gitbls/sdm](https://github.com/gitbls/sdm) - Raspberry Pi SD Card Image Manager
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
@@ -4638,7 +4659,7 @@
 - [hexpm/hex](https://github.com/hexpm/hex) - Package manager for the Erlang ecosystem.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
-- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -4691,6 +4712,7 @@
 ## pico-8 
 
 - [Liquidream/scumm-8](https://github.com/Liquidream/scumm-8) - A PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games, such as Monkey Island and Maniac Mansion.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## pixel-art 
 
@@ -4698,6 +4720,7 @@
 - [MenacingMecha/godot-psx-style-demo](https://github.com/MenacingMecha/godot-psx-style-demo) - Demo project featuring a collection of PS1 style shaders and materials for Godot engine.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
 ## portfolio 
@@ -4820,7 +4843,7 @@
 
 ## pwa 
 
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 
@@ -4909,6 +4932,7 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
@@ -4991,7 +5015,7 @@
 
 ## react 
 
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -5065,7 +5089,6 @@
 ## reverse-engineering 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [PrimeDecomp/prime](https://github.com/PrimeDecomp/prime) - A matching decompilation of Metroid Prime
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [zeldaret/botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
@@ -5121,6 +5144,7 @@
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [nushell/nufmt](https://github.com/nushell/nufmt) - An AST-based formatter for Nushell scripts, built on Nushell's own parser
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
@@ -5241,6 +5265,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -5333,7 +5358,7 @@
 ## self-hosted 
 
 - [nicorobinreal/llmspeed](https://github.com/nicorobinreal/llmspeed) - Feel how fast a local LLM runs before you buy the hardware
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -5455,7 +5480,7 @@
 
 ## sql 
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [2giosangmitom/sqmeow.nvim](https://github.com/2giosangmitom/sqmeow.nvim) - Modern SQL and NoSQL database client for Neovim
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -5576,7 +5601,7 @@
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages
@@ -5674,7 +5699,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -5786,7 +5811,7 @@
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -5935,6 +5960,7 @@
 
 ## vim 
 
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.

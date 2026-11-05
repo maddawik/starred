@@ -397,6 +397,7 @@
 
 ## GDScript 
 
+- [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot) - YARD is an editor plugin for Godot to manage resources and query them at runtime, with a table view in the editor as the cherry on top.
 - [Blade67/GATE](https://github.com/Blade67/GATE) - A Godot Engine GDScript superset.
 - [dmlary/godot-stencil-based-outline-compositor-effect](https://github.com/dmlary/godot-stencil-based-outline-compositor-effect) - Godot CompositorEffect that draws object outlines using the stencil buffer
 - [Maaack/Godot-Menus-Template](https://github.com/Maaack/Godot-Menus-Template) - Godot template with a main menu, options menus, credits, and a scene loader.
@@ -1556,7 +1557,7 @@
 - [OpenCTI-Platform/docker](https://github.com/OpenCTI-Platform/docker) - OpenCTI Docker deployment helpers
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
-- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
+- [lumbroso-commons/free-disk-space](https://github.com/lumbroso-commons/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [theNewDynamic/language-hugo-vscode](https://github.com/theNewDynamic/language-hugo-vscode) - Adds syntax highlighting to Hugo files in VS Code
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol
@@ -2308,7 +2309,7 @@
 - [harsha-iiiv/openapi-mcp-generator](https://github.com/harsha-iiiv/openapi-mcp-generator) - A tool that converts OpenAPI specifications to MCP server
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

@@ -118,6 +118,7 @@
 
 ## C 
 
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang) - HolyC compiler & transpiler
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
@@ -313,6 +314,7 @@
 ## CSS 
 
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [dreamsofcode-io/goprojects](https://github.com/dreamsofcode-io/goprojects) - 
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [maolonglong/hugo-simple](https://github.com/maolonglong/hugo-simple) - A Hugo-theme based on Simple.css and Bear Blog
@@ -934,7 +936,6 @@
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [cisagov/kev-data](https://github.com/cisagov/kev-data) - Mirror of cisa.gov/kev data files
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [Talinx/jp2a](https://github.com/Talinx/jp2a) - Converts jpg/png/webp images to ASCII
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -1843,6 +1844,7 @@
 
 ## Rust 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.

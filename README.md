@@ -110,7 +110,6 @@
 
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
 - [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## Batchfile 
 
@@ -1635,7 +1634,7 @@
 
 ## Python 
 
-- [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) - Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.
+- [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) - Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.
 - [vulncheck-oss/sdk-python](https://github.com/vulncheck-oss/sdk-python) - A generated Python SDK from VulnCheck's OpenAPI specification
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
@@ -2354,7 +2353,7 @@
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [dbk91/homebrew-wow-classic-era-addons](https://github.com/dbk91/homebrew-wow-classic-era-addons) - Homebrew tap for installing WoW classic era add-ons.
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
@@ -2435,6 +2434,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
